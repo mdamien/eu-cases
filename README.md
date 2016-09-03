@@ -19,7 +19,10 @@ What it does: do an export of each case category:
  - that's `wip0_get_exports.py` and `wip1_exports_to_csv.py`
  - you get `mergers.csv`, `aids.csv` and `cartels.csv` at the end in `output/export/`
 
-Example of exploitation of the CSVs: https://fusiontables.google.com/data?docid=1KGQ-EQUqhnQv05s-DgKWS1JU2LAG_fW-i1rFGM4Y#rows:id=1 
+Examples of exploitation of the CSVs:
+
+- [`cartels.csv`](https://fusiontables.google.com/data?docid=1KGQ-EQUqhnQv05s-DgKWS1JU2LAG_fW-i1rFGM4Y#rows:id=1)
+- [`aids.csv`](https://fusiontables.google.com/data?docid=1LpwwKRvXWW_67Cv3_ikW2G4wR1x6Mt9dlvN88Ej0#rows:id=9)
 
 ## TODO
 
