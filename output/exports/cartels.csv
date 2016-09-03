@@ -1,0 +1,586 @@
+CASE_ID,C_TITLE,CARTEL,LAST_DECISION_DATE,COMPANIES,NACE_CODE
+40105,UEFA Financial Fair Play Rules,N,24-10-14,,"R.93.12 - Activities of sport clubs, R.93.19 - Other sports activities"
+38240,Tubes industriels en cuivre,Y,16-12-03,"Europa Metalli SpA, KM Europa Metal AG, Outokumpu Copper Pro, Outokumpu Oyj, Tréfimétaux SA, Wieland Werke AG",C.33.20 - Installation of industrial machinery and equipment
+38245,Association française des Opérateurs de Réseaux Multiservices (AFORM)+8/France,N,,"AFORM, Est Vidéocomm., France, France Telecom Cable, NC Numéricâble, NTL France, Noos (Lyonnaise Com, SGCS, UPC France, Valvision",J.61.10 - Wired telecommunications activities
+38264,EEA+VERBUND / EHP,N,,"EEA, EHP, Verbund","D.35 - Electricity, gas, steam and air conditioning supply"
+38284,AIR FRANCE + ALITALIA,N,07-04-04,"Air France, Alitalia, EasyJet Airline","H.51 - Air transport, H.52.23 - Service activities incidental to air transportation"
+38287,Telenor + Canal +  + Canal Digital,N,29-12-03,"Canal + Television, Canal Digital, Canal+, TBS",J.60.2 - Television programming and broadcasting activities
+38307,PO / Territorial restrictions Germany (Gasprom),N,,"BEB Erdgas und Erdöl, Ruhrgas AG, Thyssengas GmbH, VNG, Wingas",D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+36212,Carbonless paper (CLP),Y,20-12-01,"Arjo Wiggins, Bolloré SA, Carrs Paper, Distribuidora VP, Mitsubishi HiTech, Mougeot SA, Papelera GZ, Papierfabrik AK, Sappi Ltd, Torraspapel, Zanders Feinpapiere",C.17.12 - Manufacture of paper and paperboard
+39600,Refrigeration compressors,Y,07-12-11,"Appliances Components Companies SpA, Danfoss A/S, Danfoss Flensburg GmbH, Elettromeccanica SpA, Embraco Europe S.r.l, Panasonic Corporation, Tecumseh Europe S.A., Tecumseh Products Company  Inc., Tecumseh do Brasil Ltda, Whirlpool S.A. (BR)",C.28.13 - Manufacture of other pumps and compressors
+40083,Irish Distillers,N,18-11-14,,"C.11.01 - Distilling, rectifying and blending of spirits, G.46.34 - Wholesale of beverages"
+38308,Territorial restriction Netherlands,N,,Gasunie,D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+38316,VEGA Spa / CIK - FIA,N,19-03-04,"CIK, FIA, Vega",C.22.11 - Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres
+38321,TQ3 / OPODO,N,09-12-02,"OPODO, TQ3",H.51 - Air transport
+38327,Centradia Group Ltd & Others,N,,"Banco Santander Cent, Centradia Group Ltd, RBS, SANPAOLO IMI S.p.A, Société Générale","K.64 - Financial service activities, except insurance and pension funding"
+38337,Thread,Y,13-10-05,"Ackermann , Amann Group, BST, Barbour, Bieze Stork, Bisto , Coats Holdings, Coats UK, Cousin, DMC, Donisthorpe, Gütermann , Hicking Pentecost, Oxley Threads, Perival Gütermann, Zwicky",C.13.10 - Preparation and spinning of textile fibres
+38338,Needles,Y,26-10-04,"Coats Holdings, Entaco, Entaco Group, J & P Coats , Prym Consumer, William Prym",C.14.19 - Manufacture of other wearing apparel and accessories
+39523,Slovak Telekom,N,15-10-14,"Deutsche Telekom, Slovak Telekom",J.61.10 - Wired telecommunications activities
+38348,REPSOL C.P.P. SA - Distribution de Carburants et Combustibles,N,12-04-06,"Repsol, Repsol Petroleo SA","G.46.71 - Wholesale of solid, liquid and gaseous fuels and related products, G.47.30 - Retail sale of automotive fuel in specialised stores"
+38354,Industrial bags,Y,30-11-05,"Armando Álvarez SA, BPI, Bernay Film Plastiqu, Bischof + Klein FR, Bischof + Klein GmbH, Bonar Technical Fabr, Cofira-Sac SA, Combipac BV, FL Smidth & Co A/S, FLS Plast A/S, Fardem Packaging BV, Groupe Gascogne, JM Gesellschaft, KV Stempher CV, Kendrion NV, Low & Bonar plc, Nordenia IAG, Nordfolien GmbH, Plásticos Españoles, RKW, Sachsa Verpackung, Stempher BV, Trioplast Industrier, Trioplast Wittenheim, UPM-Kymmene Oyj",C.22.22 - Manufacture of plastic packing goods
+38359,Electrical and mechanical carbon and graphite products,Y,03-12-03,"Conradty, Hoffman, Le Carbone, Morgan, SGL Carbon AG, Schunk GmbH, Schunk Kohlenstoff",C.28 - Manufacture of machinery and equipment n.e.c.
+38363,BBC ENTERPRISES + others,N,,"AGICOA, ALCS, BBC Enterprises Ltd, BBC Worldwide Ltd, Channel Four, Chorus Communication, DACS, IMRO, ITV Network Limited, NTL Commun.Ireland, PPI, Welsh Fourth Channel",J.60.2 - Television programming and broadcasting activities
+38369,Network sharing Germany (T-Mobile Deutschland GmbH+Viag Interkom GmbH & Co),N,16-07-03,"O2, T-Mobile Deutschland, Viag Interkom",J.61.20 - Wireless telecommunications activities
+38370,Network sharing UK (BT Cellnet + BT 3G + ONE2ONE Personal Communications),N,30-04-03,"BT 3G, BT Cellnet, ONE2ONE",J.61.20 - Wireless telecommunications activities
+38374,PO/FIA+FOA  Monitoring   (voir affaires 36638+35163),N,,"FIA, FOA, FOM, ISC, SLEC","J.60.2 - Television programming and broadcasting activities, R.93.11 - Operation of sports facilities, R.93.19 - Other sports activities"
+38377,BIEM (Barcelona Agreements),N,,BIEM,C.18.20 - Reproduction of recorded media
+38380,Whirlpool+BSH+Electrolux+Merloni,N,,"BSH, Electrolux, Merloni, Whirlpool",
+39351,Swedish Interconnectors,N,14-04-10,Svenska Kraftnät,D.35.12 - Transmission of electricity
+38401,EMC/Producteurs européens de ciment,Y,28-09-05,EMC,"C.23.5 - Manufacture of cement, lime and plaster"
+38423,C4Gas : Fluxys + Gaz de France International + Transco,N,,"C4Gas, Fluxys, Gaz de France, Transco",C.33.20 - Installation of industrial machinery and equipment
+39792,Steel abrasives,Y,02-04-14,"Eisenwerk Würth GmbH, Ervin Amasteel, Ervin Industries Inc., Metalltechnik Schmidt GmbH & Co. KG, Pometon S.p.A , Winoa Holding SAS, Winoa SA",C.23.91 - Production of abrasive products
+38436,QSC AG / Deutsche Telekom AG,N,01-03-04,"DTAG, QSC AG",J.61.10 - Wired telecommunications activities
+38443,Rubber chemicals,Y,21-12-05,"Bayer AG, Chemtura Corporation, Crompton Europe Ltd, Crompton Manufact, Flexsys NV, General Química SA, Repsol Quimica SA, Repsol YPF SA",C.20.5 - Manufacture of other chemical products
+38450,AGORA+BSH ELECTROMENAGER+ELCO-BRANDT+7,N,,"AGORA, BSH ELECTROMENAGER, ELCO-BRANDT, ELEC.HOME PROD. Fr, Fagor Electrodom., GIFAM, MERLONI, MIELE, ROSIERES, WHIRLPOOL Fr",
+38451,SFR+Bouygues Telecom+Orange France,N,,"Bouygues Telecom SA, Orange France, SFR",J.61.20 - Wireless telecommunications activities
+38453,FAPL+Sky,N,28-03-06,"Arsenal Football , Aston Villa Plc, Blackburn Rovers , Bolton Wanderers , Charlton Athletic , Chelsea Football , Everton Football , FA Premier League, Fulham Football, Ipswich Town Footbal, Leeds United Plc, Leicester City Footb, Liverpool Football , Manchester United, Middlesbrough, Newcastle United, Southampton , The Derby County, The Sunderland Asso, Tottenham Hotspur, West Ham United",J.60.2 - Television programming and broadcasting activities
+38092,ENDORSIA + 5,N,,"Endorsia, INA, Rockwell, SKF, Sandvik, Timken",C.33.2 - Installation of industrial machinery and equipment
+38464,Eurosport,N,,"Consortium Eurosport, Eurosport, TF1",J.60.2 - Television programming and broadcasting activities
+38469,Airport users/AIA  (Athens International Airport) of Spata+Greece,N,02-05-05,"AIA of Spata, Elláda",H.52.23 - Service activities incidental to air transportation
+38477,British Airways+SN Brussels Airlines,N,10-03-03,"British Airways Plc, SN",H.51 - Air transport
+38479,British Airways+Iberia+GB Airways,N,10-12-03,"British Airways Plc, GB Airways, Iberia",H.51 - Air transport
+38091,EUTILIA + 11,N,,"EDF, ENEL, Electrabel, Endesa Net Factory, Eutilia NV, Iberdrola SA, National Grid , Nuon NV, RWE Systems AG, Scottish Power, United Utilities BV, Vattenfall AB",C.33.20 - Installation of industrial machinery and equipment
+39939,Samsung - Enforcement of UMTS standard essential patents,N,29-04-14,,"J.62 - Computer programming, consultancy and related activities"
+39437,TV and computer monitor tubes,Y,05-12-12,"CPTF Optronics Co., Ltd., Chunghwa Picture Tubes (Malaysia) Sdn. Bhd., Chunghwa Picture Tubes Ltd, Koninklijke Philips Electronics NV, LG Electronics Inc., MT Pictures Display Co., Ltd., Panasonic Corporation, Samsung SDI (Malaysia) Berhad, Samsung SDI Co., Ltd., Samsung SDI Germany GmbH, Technicolor S.A., Toshiba Corporation","C.26 - Manufacture of computer, electronic and optical products, C.26.4 - Manufacture of consumer electronics"
+39711,Qualcomm (predation),N,,,"C.26.3 - Manufacture of communication equipment, C.26.4 - Manufacture of consumer electronics"
+39188,Bananas,Y,15-10-08,"Chiquita , Chiquita Banana, Chiquita Brands Int, Chiquita Int Ltd, Dole Food, Dole Fresh Fruit, Fresh Del Monte Prod, Int. Fruchtimport",A.01.22 - Growing of tropical and subtropical fruits
+38526,OESTERREICHISCHER TERRORPOOL,N,,"ACE, AXA, Allianz, Anker, Donau, Generali, Gerling, Grawe, Hannover, Interunfall, Kaerntner, Merkur, Niederoesterreichisc, Oberoesterreichische, Raiffeisen, Salzburger, Tiroler, Uniqa Sach, VAV, Victoria, Vorarlberger, Wiener Städtische Al, Wuestenrot, Zuerich","K.65 - Insurance, reinsurance and pension funding, except compulsory social security"
+38549,Barême d'honoraires de l'Ordre des Architectes belges,N,24-06-04,OA,M.71.1 - Architectural and engineering activities and related technical consultancy
+38553,Dentsu+Publicis+Madame EB,N,,"Dentsu, Madame EB, Publicis",M.73.1 - Advertising
+38554,AUDI-Werkstattverträge,N,,Audi,G.45.2 - Maintenance and repair of motor vehicles
+38574,Synthon/GlaxoSmithKline,N,,"GSK, Synthon",C.21.20 - Manufacture of pharmaceutical preparations
+38576,IRTS+AUCHAN+CASINO,N,,"AUCHAN SA, CASINO SA, IRTS",G.46.19 - Agents involved in the sale of a variety of goods
+39510,Ordre National des Pharmaciens en France (ONP),N,08-12-10,"Conseil Central  de la Section G de l´ONP (FR), Conseil National de l'Ordre des Pharmaciens (FR), LABCO, Ordre National des pharmaciens (FR)",Q.86.22 - Specialist medical practice activities
+39687,French generics,N,,,C.21.20 - Manufacture of pharmaceutical preparations
+38636,Rambus,N,09-12-09,"Hynix Semiconductor Inc, Infineon, Rambus",C.26.2 - Manufacture of computers and peripheral equipment
+38645,Methacrylates,Y,31-05-06,"Altuglas Internat., Altumax Europe SAS, Arkema SA, Degussa AG, Elf Aquitaine, ICI PLC, Lucite Internat. UK, Lucite International, Para-Chemie GmbH, Quinn Barlo Ltd, Quinn Plastics GmbH, Quinn Plastics NV, Röhm GmbH & Co KG, Total SA","C.22.21 - Manufacture of plastic plates, sheets, tubes and profiles"
+38662,GDF,N,26-10-04,"ENEL, ENI, Gaz de France",D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+38681,Cannes Agreement,N,04-10-06,"GEMA , MCPS/PRS, NCB, SDRM, SGAE, SIAE, Stemra, Universal",C.18.20 - Reproduction of recorded media
+35580,Goldstein/General Council of the Bar,N,12-01-01,"General Council Bar, Goldstein A.J.",M.69.10 - Legal activities
+38698,CISAC Agreement,N,16-07-08,"CISAC, Music Choice Europe, RTL Group",J.59.20 - Sound recording and music publishing activities
+38700,Greek lignite and electricity markets.,N,05-03-08,PPC,"D.35.1 - Electric power generation, transmission and distribution"
+39639,Optical Disc Drives,Y,21-10-15,"Hitachi-LG  Data Storage Korea, Inc., Hitachi-LG Data Storage, Inc., Koninklijke Philips N.V., Lite-On Sales & Distribution, Inc., Lite-On Technology Corporation, Philips & Lite-On Digital Solutions Corporation, Philips & Lite-On Digital Solutions USA, Inc., Philips Electronics North America Corporation, Quanta Storage Inc., Sony, Sony Electronics Inc., Sony Optiarc America Inc., Sony Optiarc Inc., Toshiba Samsung Storage Technology Corporation, Toshiba Samsung Storage Technology Korea Corp.",C.26.80 - Manufacture of magnetic and optical media
+38730,BP p.l.c.,N,,BP p.l.c.,G.47.30 - Retail sale of automotive fuel in specialised stores
+38733,AMP - Nouvelles CGFP,N,,AMP,G.47.6 - Retail sale of cultural and recreation goods in specialised stores
+38745,BdKEP/Deutsche Post AG + Bundesrepublik Deutschland,N,20-10-04,"BdKEP, Deutsche Post AG, Deutschland",H.53 - Postal and courier activities
+38767,FIPCOM/ Koninklijke Philips Electronics N.V.,N,,"FIPCOM, Philips Electronics",C.33.20 - Installation of industrial machinery and equipment
+38772,Cannes Extension Agreement,N,,"AEPI, Austro-Mechana, BMG, EMI, GEMA , MCPS Ireland, MCPS/PRS, NCB, SABAM, SDRM, SGAE, SIAE, SPA, STEMRA, SUISA, Sony/ATV, UMPG, Warner Chappell",C.18.20 - Reproduction of recorded media
+39985,Motorola - Enforcement of GPRS standard essential patents,N,29-04-14,,"J.62 - Computer programming, consultancy and related activities"
+38787,"Koninklijke Philips Electronics N.V.+Sony  Corporation (voir cas 37.228, 37.561 & 37.707)",N,,"Philips Electronics, Sony",C.33.20 - Installation of industrial machinery and equipment
+39921,Refusal to provide payment services,N,23-07-14,,"K.64.9 - Other financial service activities, except insurance and pension funding"
+38828,PO / FA Premier League Limited + British Sky Broadcasting plc,N,,"BSkyB, FAPL",J.60.2 - Television programming and broadcasting activities
+40017,Sugar,Y,,,C.10.81 - Manufacture of sugar
+39984,OPCOM / Romanian Power Exchange,N,05-03-14,"OPCOM, Transelectrica",D.35.14 - Trade of electricity
+39574,Smart card chips,Y,03-09-14,"Hitachi Ltd, Infineon Technologies, Koninklijke Philips N.V., Mitsubishi Electric Corporation, Philips France S.A.S, Renesas Electronics Corporation, Renesas Electronics Europe Limited, Samsung Electronics Co Ltd, Samsung Semiconductor Europe GmbH",C.26.11 - Manufacture of electronic components
+39078,Bitumen Belgique,Y,,,C.20.13 - Manufacture of other inorganic basic chemicals
+39685,Fentanyl,N,10-12-13,"Janssen-Cilag BV, Johnson & Johnson, Novartis, Sandoz BV","C.21.20 - Manufacture of pharmaceutical preparations, G.46.46 - Wholesale of pharmaceutical goods"
+39125,Carglass,Y,12-11-08,"AGC Automotive Europe SA, AGC Automotive Germany GmbH, AGC Flat Glass, Asahi Glass, Glaverbel France SA, Glaverbel Italy Srl, Pilkington Automotive Deutschland GmbH, Pilkington Automotive Ltd, Pilkington Group, Pilkington Holding, Pilkington Italia Spa, Saint Gobain, Saint-Gobain, Saint-Gobain Sekurit Deutschland GmbH, Saint-Gobain Sekurit France SA, Soliver NV, Splintex France Sarl, Splintex UK Limited","C.29.32 - Manufacture of other parts and accessories for motor vehicles, G.45.3 - Sale of motor vehicle parts and accessories"
+38907,Steel Beams,Y,08-11-06,"Arcelor Internat., Arcelor Luxembourg, Arcelor Profil",C.25.1 - Manufacture of structural metal products
+39003,ex-33133B/CARBONATE DE SOUDE-SOLVAY-CFK,Y,13-12-00,"CFK, Solvay NV",C.20.14 - Manufacture of other organic basic chemicals
+39004,ex-33133C/CARBONATE DE SOUDE-SOLVAY,Y,13-12-00,Solvay NV,C.20.14 - Manufacture of other organic basic chemicals
+39041,ex-35860B/Tubes d'acier sans soudure/PO,Y,08-12-99,"British Steel plc, Dalmine SpA, JFE Engineering Corp, JFE Steel Corp, Mannesmannröhrenwerk, NSC, Siderca SAIC, Sumitomo Metal Ind., Tubos Acero México, Vallourec SA","C.24.20 - Manufacture of tubes, pipes, hollow profiles and related fittings, of steel"
+39046,ex-33133D/CARBONATE DE SOUDE-ICI,Y,13-12-00,ICI PLC,C.20.14 - Manufacture of other organic basic chemicals
+39116,Coca-Cola,N,22-06-05,Coca-Cola Company,C.11.07 - Manufacture of soft drinks; production of mineral waters and other bottled waters
+39140,DaimlerChrysler - Access to technical information,N,14-09-07,DaimlerChrysler AG,"C.30.91 - Manufacture of motorcycles, G.45.2 - Maintenance and repair of motor vehicles"
+39141,Fiat - Access to technical information,N,14-09-07,Fiat SpA,"C.30.91 - Manufacture of motorcycles, G.45.2 - Maintenance and repair of motor vehicles"
+39142,Toyota Motor Europe - Access to technical information,N,14-09-07,Toyota Motor Europe,"C.30.91 - Manufacture of motorcycles, G.45.2 - Maintenance and repair of motor vehicles"
+39143,Opel - Access to technical information,N,14-09-07,GME,"C.30.91 - Manufacture of motorcycles, G.45.2 - Maintenance and repair of motor vehicles"
+39151,SABAM (Belgium),N,,SABAM,C.18.20 - Reproduction of recorded media
+39152,BUMA (Netherlands),N,,BUMA,C.18.20 - Reproduction of recorded media
+39154,iTunes,N,30-03-07,"BMG, EMI Music Ltd, Universal, Warner Music Group, iTunes",C.18.20 - Reproduction of recorded media
+39157,TERACOM,N,21-03-05,"Sverige, Teracom","J.60 - Programming and broadcasting activities, J.61.20 - Wireless telecommunications activities"
+39165,Flat Glass,Y,28-11-07,"AGC Flat Glass, Asahi Glass, Guardian Europe , Guardian Industries, Pilkington DE, Pilkington Group, Pilkington Holding, Saint-Gobain, Saint-Gobain Glass",C.23.11 - Manufacture of flat glass
+40028,Alternators and Starters,Y,27-01-16,"Denso Corporation, Hitachi Automotive Systems, Ltd., Hitachi Ltd, Mitsubishi Electric Corporation",C.29.31 - Manufacture of electrical and electronic equipment for motor vehicles
+39177,Which ? / DFB + Mastercard + FIFA,N,,"DFB, FIFA, MasterCard Internat., Which",R.93.19 - Other sports activities
+38606,"GROUPEMENT DES CARTES BANCAIRES ""CB""",N,17-10-07,"BFBP, BNP, CIC, CNCEP, CNCM, Crédit Agricole, Crédit Lyonnais, Groupement CB, LA POSTE, Natexis, Société Générale","K.64.9 - Other financial service activities, except insurance and pension funding"
+36957,Glaxo Wellcome,N,08-05-01,"GSK, Glaxo Wellcome (E), Glaxo-Wellcome",C.21 - Manufacture of basic pharmaceutical products and pharmaceutical preparations
+39233,HU-directive 2002/77-Cable operators,N,11-04-06,Magyarország,J.61.10 - Wired telecommunications activities
+39247,Texas Instruments / Qualcomm,N,,"Qualcomm, Texas Instruments",C.26.3 - Manufacture of communication equipment
+39678,Deutsche Bahn I,N,18-12-13,Deutsche Bahn AG,H.49.20 - Freight rail transport
+39294,Microsoft (ECIS complaint),N,,"ECIS, Microsoft",C.26.2 - Manufacture of computers and peripheral equipment
+40170,Exhaust systems,Y,,,C.29.32 - Manufacture of other parts and accessories for motor vehicles
+39315,ENI,N,29-09-10,Eni SpA,"D.35.22 - Distribution of gaseous fuels through mains, D.35.23 - Trade of gas through mains"
+39316,GDF foreclosure,N,03-12-09,Gaz de France,"D.35.22 - Distribution of gaseous fuels through mains, D.35.23 - Trade of gas through mains"
+39226,Lundbeck,N,19-06-13,"A.L. Industrier, Arrow Generics Limited, Arrow Group ApS, Generics UK Ltd, Lundbeck, Merck, Ranbaxy (UK), Ranbaxy Laboratories, Resolution Chemicals, Xellia Pharmaceuticals ApS, Zoetis Products LLC","C.21.1 - Manufacture of basic pharmaceutical products, G.46.46 - Wholesale of pharmaceutical goods"
+39686,Cephalon,N,,,C.21.2 - Manufacture of pharmaceutical preparations
+40169,MACO,N,,,"C.25.7 - Manufacture of cutlery, tools and general hardware, C.25.72 - Manufacture of locks and hinges"
+39784,Omnis / Microsoft,N,01-12-10,,J.62.01 - Computer programming activities
+39514,Patent Settlement Monitoring Report,N,,,C.21.20 - Manufacture of pharmaceutical preparations
+39861,Yen Interest Rate Derivatives (YIRD),Y,04-12-13,"Citigroup Global Markets Japan Inc., Citigroup Inc, Deutsche Bank, Icap Management Services Ltd., Icap New Zealand Limited, Icap plc, J.P. Morgan Europe Limited, JPMorgan Chase & Co, JPMorgan Chase Bank, National Association, The Royal Bank of Scotland Group plc, The Royal Bank of Scotland plc, UBS AG, UBS Securities Japan Co. Ltd.","K.64.30 - Trusts, funds and similar financial entities"
+39386,Long term electricity contracts in France,N,17-03-10,EDF,"D.35 - Electricity, gas, steam and air conditioning supply"
+39388,German electricity wholesale market,N,26-11-08,E.ON AG,"D.35 - Electricity, gas, steam and air conditioning supply"
+39391,Printers (EFIM  complaint),Y,20-05-09,"Canon Inc, EFIM, Epson, Hewlett-Packard, Lexmark",C.28.23 - Manufacture of office machinery and equipment (except computers and peripheral equipment)
+39525,Telekomunikacja Polska,N,22-06-11,Telekom. Polska,J.61.10 - Wired telecommunications activities
+36321,Omega/Nintendo+1,N,30-10-02,"Bergsala AB, CD-Contact Data GmbH, Concentra SA, Itochu Corporation, John Menzies plc, Linea GIG SpA, Nintendo Co. Ltd, Nintendo Netherlands, Nintendo UK, Nintendo of Europe, Omega Electro",C.32.4 - Manufacture of games and toys
+39402,RWE gas foreclosure,N,18-03-09,RWE AG,D.35.22 - Distribution of gaseous fuels through mains
+38589,Heat stabilisers,Y,11-11-09,"AC Treuhand AG, Aachener Chemische Werke Gesellschaft, Akcros Chemicals Ltd, Akzo Nobel Chemicals BV, Akzo Nobel Chemicals GmbH, Akzo Nobel Chemicals Ltd, Akzo Nobel NV, Arkema France, Baerlocher GmbH, Baerlocher Italia SpA, Baerlocher UK Ltd, CECA SA, Chemson GmbH, Chemson Polymer-Additive AG, Chemtura Corporation, Chemtura Vinyl Additives GmbH, Elf Aquitaine, Faci SpA, Gea Group AG, MRF Michael Rosenthal GmbH, Reagens SpA",C.20 - Manufacture of chemicals and chemical products
+39442,French electricity wholesale market,N,,EDF,D.35.11 - Production of electricity
+39611,Water management products,Y,27-06-12,"Flamco GmbH, Flamco Holding BV, Reflex Winkelmann GmbH & Co KG, TA Hydronics Switzerland AG, Voestalpine Polynorm AG, Winckelmann Group GmbH & Co KG, voestalpine AG","C.25.2 - Manufacture of tanks, reservoirs and containers of metal"
+39461,CEEES/AOP - REPSOL,N,28-04-11,"AGES, CC, CEEES, Comillas, Comillas 2, Pozuelo, Virgisa","G.46.12 - Agents involved in the sale of fuels, ores, metals and industrial chemicals"
+39471,Certain joueur de tennis professionnel / Agence mondiale antidopage + ATP + CIAS,N,13-10-09,"AMA - Agence mondiale antidopage, ATP Tour Inc., CIAS",R.93.19 - Other sports activities
+40092,Internet Connectivity  - Telefónica,N,,,J.61 - Telecommunications
+39592,Standard and Poor's,N,15-11-11,"EFAMA, Standard & Poor's","K.66.1 - Activities auxiliary to financial services, except insurance and pension funding"
+39771,Restrictions concerning ELT books,N,10-10-12,,J.58.11 - Book publishing
+38511,DRAMS,Y,19-05-10,"Elpida Memory (Europe) GmbH, Elpida Memory Inc, Hitachi Europe Ltd, Hitachi Ltd, Hynix Semiconductor Deutschland GmbH, Hynix Semiconductor Europe Holding Ltd, Hynix Semiconductor Inc, Hynix Semiconductor United Kingdom Ltd, Infineon Technologies, Micron Europe Ltd, Micron Semiconductor (Deutschland) GmbH, Micron Technology, Mitsubishi Electric Corporation, Mitsubishi Electric Europe BV, NEC Corporation, NEC Electronics (UK) Ltd, Nanya Technology Corporation, Renesas Electronics Europe GmbH, Samsung Electronics, Samsung Semiconductor Europe GmbH, Samsung Semiconductor Europe Ltd, Samsung Semiconductor France Sarl, Toshiba Corporation, Toshiba Electronics",C.26.2 - Manufacture of computers and peripheral equipment
+38344,Pre-stressing steel,Y,30-06-10,"Antonini SpA, ArcelorMittal Espana SA, ArcelorMittal Fontaine SA, ArcelorMittal SA, ArcelorMittal Verderio Srl, ArcelorMittal Wire France SA, CB Trafilati Acciai SpA, Companhia Previdente - SCPF SA, DWK Drahtwerke Koeln GmbH, Emesa-Trefileria SA, Emme Holding S.p.A, Fapricela - Industria de Trefilaria S.A. , Global Steel Wire SA, Hit Groep BV, Industria Trafileria Applicazioni Speciali SpA, Industrias Galycas SA, Italcables SpA, Moreda-Riviere Trefilerias SA, Nedri Spanstaal BV, Ori Martin SA, Ovako Bright Bar AB, Ovako Dalwire Oy AB, Ovako Hjulsbro AB, Pampus Industriebeteiligungen GmbH & Co. KG, Proderac Productos Derivados del Acero SA, Rautaruukki Oyj, Redaelli Tecna SpA, SOCITREL - Sociedade Industrial de Trefilaria S.A., Saarstahl AG, Siderurgica Latina Martin SpA, Trefilerias Quijano SA, Trenzas y Cables de Acero P.S.C. SL, Voestalpine Austria Draht GmbH, WDI Verwaltungs GmbH & Co. KG, Westfaelische Drahtindustrie GmbH, voestalpine AG",C.24.10 - Manufacture of basic iron and steel and of ferro-alloys
+38279,PO/Viandes Bovines Françaises,Y,02-04-03,"FNB, FNCBV, FNICGV, FNPL, FNSEA, JA",G.46.32 - Wholesale of meat and meat products
+39732,"BRV / FIA, certain Formula One engine manufacturers, FIM, Dorna, Honda",N,04-08-11,"BMW, BRV Pty Ltd, Dorna Sports SL, FIA, FIM, Fiat SpA, Ford Motor Company, Honda Motor Co Ltd, Renault, Toyota Motor Company",R.93.19 - Other sports activities
+39952,Power exchanges,Y,05-03-14,"EPEX Spot (France), Nord Pool Spot AS (Norway)",D.35.14 - Trade of electricity
+36570,Sundbusserne v. Port of Helsingborg,N,23-07-04,"Helsingborgs Hamn, Sundbusserne",H.52.22 - Service activities incidental to water transportation
+36726,Sport et Libertés/FIFA+URBSFA,N,,"FIFA, Sport et Libertés, URBSFA",R.93.19 - Other sports activities
+38624,Deep-sea maritime transport of bulk liquids,Y,,,H.50.20 - Sea and coastal freight water transport
+38620,Hydrogen peroxide (and perborate),Y,03-05-06,"Akzo Nobel Chemicals Holding AB, Akzo Nobel NV, Arkema SA, Caffaro, Chemoxal, Degussa AG, Edison SpA, Eka Chemicals, Elf Aquitaine, FMC Corporation, FMC Foret SA, KEMIRA OYJ, L'Air Liquide, SNIA, Solvay NV, Solvay Solexis, Total SA",C.20.13 - Manufacture of other inorganic basic chemicals
+39886,Ryanair/Dublin Airport Authority and Aer Lingus,N,17-10-13,"Aer Lingus, Dublin Airport Authority plc, Ryanair",H.52.23 - Service activities incidental to air transportation
+39173,Gas sector inquiry,N,10-01-07,,D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+38001,PO/Leased Lines - Spain,N,,,J.61.10 - Wired telecommunications activities
+39396,Calcium carbide and magnesium based reagents,Y,22-07-09,"1.Garantovana, Akzo Nobel NV, Almamet GmbH, AlzChem Hart GmbH, Arques Industries AG, Carbide Sweden AB, Degussa GmbH, DonauChemie AG, Ecka Granulate, NFerrum Metallpulver, Novácke Chemické, SKW, SKW Holding, Slovenske Elektrarne, TDR Metalurgija dd","C.20.13 - Manufacture of other inorganic basic chemicals, C.24.45 - Other non-ferrous metal production"
+40099,Google Android,N,15-04-15,,"J.58.2 - Software publishing, J.62.01 - Computer programming activities, J.63.12 - Web portals"
+39389,German electricity balancing market,N,26-11-08,,"D.35 - Electricity, gas, steam and air conditioning supply"
+40089,Internet Connectivity - Deutsche Telekom,N,,,J.61 - Telecommunications
+39699,Baltic Max Feeder,N,,,H.50.2 - Sea and coastal freight water transport
+39730,CDS (Credit Default Swaps) - Clearing,N,,"Bank of America Corporation, Barclays Bank, Citigroup Inc, Credit Suisse Group AG, Deutsche Bank, Goldman Sachs Group, ICE Clear Europe, JPMorgan Chase & Co, Morgan Stanley, UBS AG",K.66.12 - Security and commodity contracts brokerage
+39459,Electrical equipment,Y,,,"C.27.1 - Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus"
+38098,GERMANY ROAMING,N,,,J.61.20 - Wireless telecommunications activities
+37663,B2/Telia,N,,"B2, Telia",J.61.10 - Wired telecommunications activities
+29629,LAMINES ET ALLIAGES DE ZINC,Y,14-12-82,,"C.24.43 - Lead, zinc and tin production"
+39191,Financial Services Sector Inquiry - Business Insurance,N,25-09-07,,"K.65 - Insurance, reinsurance and pension funding, except compulsory social security"
+40032,BR/ESBR Recidivism,Y,26-02-13,"ENI, Versalis SpA",C.20.17 - Manufacture of synthetic rubber in primary forms
+38070,PO/Access to Gas Networks,N,,,D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+39707,Si.mobil / Mobitel,N,24-01-11,,J.61.10 - Wired telecommunications activities
+30373,P & I CLUBS,N,12-04-99,,"K.65 - Insurance, reinsurance and pension funding, except compulsory social security"
+40055,Parking Heaters,Y,17-06-15,"Eberspaecher Climate Control Systems GmbH & Co KG, Eberspaecher GmbH, Eberspaecher Gruppe GmbH & Co KG, Webasto Fahrzeugtechnik GmbH, Webasto SE, Webasto Thermo & Comfort SE",C.29.32 - Manufacture of other parts and accessories for motor vehicles
+38427,Pay Television Film Output Agreements,N,,,"J.59.1 - Motion picture, video and television programme activities"
+38019,Proxis België NV/Koch Neff Öttinger (KNO) + 4,N,,"Georg Lingenbrink, Koch Neff Öttinger, Könemann, Proxis, Umbreit, Wehling",J.58.11 - Book publishing
+39283,SRAM,Y,,,C.26.11 - Manufacture of electronic components
+39052,Publication paper,Y,,,C.17.2 - Manufacture of articles of paper and paperboard
+37640,Sector inquiry LOCAL LOOP,N,,,J.61.10 - Wired telecommunications activities
+37639,Sector inquiry ROAMING,N,,,J.61.20 - Wireless telecommunications activities
+39493,CPUs/PC retailers,N,,,C.26.2 - Manufacture of computers and peripheral equipment
+34174,Sealink/B&I; - Holyhead,N,,"B&I;, SSL",H.50.20 - Sea and coastal freight water transport
+35388,Irish Continental Group v./ CCI Morlaix (Roscoff),N,16-05-95,"CCI Morlaix, ICG","H.50.20 - Sea and coastal freight water transport, H.52.22 - Service activities incidental to water transportation"
+39054,Label paper,Y,,,C.17.29 - Manufacture of other articles of paper and paperboard
+38506,PO/Carbon black,Y,,,C.20 - Manufacture of chemicals and chemical products
+36583,SETCA+FGTB/FIFA+URBSFA+1,N,28-05-02,"FGTB, FIFA, Ligue Football, SETCA, URBSFA",R.93.19 - Other sports activities
+38005,PO/Leased Lines - Belgium,N,,,J.61.10 - Wired telecommunications activities
+39564,Applicability of Slovak Competition Act to Regulated Sectors,N,,,"D.35 - Electricity, gas, steam and air conditioning supply, H.53.20 - Other postal and courier activities, J.61 - Telecommunications"
+33585,PO/RAPPORTS CHEMINS DE FER+AGENCES DE VOYAGES,Y,25-11-92,,H.49 - Land transport and transport via pipelines
+39636,Rights Agency Ltd/SCAPR a.o.,N,,,"J.59.2 - Sound recording and music publishing activities, R.90.01 - Performing arts"
+38003,PO/Leased Lines - Italy,N,,,J.61.10 - Wired telecommunications activities
+37987,PO / Competitive conditions in the motor fuels sector,N,,,"G.46.71 - Wholesale of solid, liquid and gaseous fuels and related products, G.47.30 - Retail sale of automotive fuel in specialised stores, H.49.50 - Transport via pipeline"
+37868,PO/Voice on Internet,N,,,J.61 - Telecommunications
+38788,Sector Inquiry New Media I,N,,,C.18.20 - Reproduction of recorded media
+38653,PO / Barge transport of bulk liquids by barge on inland waterways,Y,,,H.50.20 - Sea and coastal freight water transport
+39894,Industrial engines,N,,,"C.28.11 - Manufacture of engines and turbines, except aircraft, vehicle and cycle engines"
+38542,EPDM,Y,,,"C.20.1 - Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms, C.22.1 - Manufacture of rubber products"
+38097,UK ROAMING,N,,,J.61.20 - Wireless telecommunications activities
+39892,Numericable - Luxembourg,N,29-03-12,,J.61.1 - Wired telecommunications activities
+34657,MANZSCHE VERLAG+NOMOS+DROEMERSCHE,N,,,G.47.6 - Retail sale of cultural and recreation goods in specialised stores
+39615,Nokia/Bosch+IPCom,N,,,C.26.30 - Manufacture of communication equipment
+39563,Retail Food Packaging,Y,24-06-15,"Bunzl Plc, CCPL S.c., Coopbox Eastern s.r.o., Coopbox Group S.p.A., Coopbox Hispania S.l.u., Coveris Rigid (Auneau) France SAS, Groupe Guillin SA, Huhtamäki Flexible Packaging Germany GmbH & Co, Huhtamäki Oyj , Italmobiliare S.p.A., Johannes Reifenhäuser Holding GmbH & Co KG, Linpac Distribution SAS, Linpac France SAS, Linpac Group Ltd., Linpac Packaging GmbH, Linpac Packaging Holdings S.L., Linpac Packaging Kft, Linpac Packaging Polska Sp zo.o, Linpac Packaging Pravia S.A., Linpac Packaging S.r.o., Linpac Packaging Spol S.r.o., Linpac Packaging Verona S.r.L., Magic Pack Srl, Nespak S.p.A., Ovarpack Embalagens, Petruzalek GmbH, Petruzalek Kft, Petruzalek Spol s.r.o., Petruzalek s.r.o., Poliemme S.r.l., Propack Kft., Silver Plastics GmbH, Silver Plastics GmbH & Co KG, Silver Plastics S.à.r.l., Sirap France S.A.S., Sirap-Gema S.p.A., Vitembal España, S.L., Vitembal GmbH Verpackungsmittel, Vitembal Holding SAS, Vitembal Société Industrielle SAS",C.22.22 - Manufacture of plastic packing goods
+39190,Financial Services Sector Inquiry - Retail banking,N,31-01-07,,K.64.19 - Other monetary intermediation
+39172,Electricity sector inquiry,N,10-01-07,,"D.35.1 - Electric power generation, transmission and distribution"
+39419,International airline passenger services,Y,,,H.51.10 - Passenger air transport
+39387,Long term electricity contracts in Belgium,N,,,"D.35 - Electricity, gas, steam and air conditioning supply"
+39511,IBM Corporation,N,,,C.26.2 - Manufacture of computers and peripheral equipment
+40090,Internet Connectivity - France Telecom,N,,,J.61 - Telecommunications
+38214,Plastic films,Y,,,C.22.22 - Manufacture of plastic packing goods
+39803,"Italian Association of Lehman Brothers' Bond Holders / Consorzio Patti Chiari, Banche Consorziate e Agenzie di Rating",N,30-11-11,,"K.66.19 - Other activities auxiliary to financial services, except insurance and pension funding"
+39579,Consumer detergents,Y,13-04-11,"Henkel AG & Co KGaA, Procter & Gamble, Procter & Gamble International Sarl, Unilever NV, Unilever PLC","C.20.41 - Manufacture of soap and detergents, cleaning and polishing preparations"
+40023,Cross-border access to pay-TV,N,26-07-16,Paramount Pictures C,"J.59 - Motion picture, video and television programme production, sound recording and music publishing activities, J.60.20 - Television programming and broadcasting activities"
+39673,Virtual Print Fee agreements,N,,,"J.59.11 - Motion picture, video and television programme production activities"
+39653,"Vivendi, Iliad / France Telecom",N,02-07-10,,J.61.10 - Wired telecommunications activities
+37296,PO/Triumph Motorcycles Ltd.,N,,,G.45.19 - Sale of other motor vehicles
+39322,Malta Fuel import monopoly,N,,,D.35.22 - Distribution of gaseous fuels through mains
+34950,ECO EMBALLAGES,N,15-06-01,,E.38.3 - Materials recovery
+39053,Fine paper,Y,,,C.17.29 - Manufacture of other articles of paper and paperboard
+39812,Pharma Sector Inquiry - Procedural Issue - Servier,N,22-07-10,,C.21.2 - Manufacture of pharmaceutical preparations
+39915,Deutsche Bahn III,N,13-06-12,"DB Energie GmbH, Deutsche Bahn AG","H.49.1 - Passenger rail transport, interurban, H.49.20 - Freight rail transport"
+38381,ALROSA + DBCAG (part of de Beers group) + City and West East (part of de Beers group),N,22-02-06,"Alrosa, City & West East, De Beers",B.08.99 - Other mining and quarrying n.e.c.
+37129,UPS/Deutsche Post+DHL,N,,"DHL Corporation USA, Deutsche Post AG, UPS",H.53.20 - Other postal and courier activities
+39230,Rio Tinto Alcan,N,20-12-12,"Alcan Inc., ECL, NKM Noell GmbH, Reel","C.24.42 - Aluminium production, C.28.99 - Manufacture of other special-purpose machinery n.e.c."
+39799,Octroi des secondes chaînes bonus - FR,N,,,J.60.20 - Television programming and broadcasting activities
+35770,Joint Operational Service Agreement (JOS),N,,"Andrew Weir Shipping, Ellerman Lines, Iscont Lines, KNSM-Kroonburgh BV, Zim Israel Navigatio",H.50.20 - Sea and coastal freight water transport
+35803,IPEX Consortium,N,,"Andrew Weir Shipping, CMA, DSR-Senator Lines",H.50.20 - Sea and coastal freight water transport
+36282,VSA Notification,N,,"Møller-Maersk Line, Nedlloyd Lines, Orient Overseas C., P&O; Containers UK, Sea-Land Service",H.50.20 - Sea and coastal freight water transport
+35807,MEDECS agreement,N,,"Costa Container Line, Italia Navigazione, Ybarra CGM Sud",H.50.20 - Sea and coastal freight water transport
+35773,Contship/Italia/TMM/Tecomar Consortia,N,,"Contship Container, Italia Navigazione, Tecomar, Transportacion Mar.M",H.50.20 - Sea and coastal freight water transport
+38021,Consortium Europe to Caribbean,N,,"A.P. Moller - Maersk, CMA CGM, Marfret, Nordana Line",H.50.20 - Sea and coastal freight water transport
+35488,HansaFerry,N,,"Deutsche Fährges.Ost, SweFerry",H.50 - Water transport
+35762,Joint Mediterranean Canada Service,N,,"Canada Maritime, DSR-Senator Lines",H.50.20 - Sea and coastal freight water transport
+35681,North Sea Liner Conference Agreement,N,,"Finncarriers, Poseidon Schiffahrt, United Baltic",H.50.20 - Sea and coastal freight water transport
+35680,Baltic Liner Conference Agreement,N,,"Finncarriers, Poseidon Schiffahrt",H.50.20 - Sea and coastal freight water transport
+35812,G & C Consortium Agreement,N,,"Cobelfret, G & C Lines, Grimaldi Navigazione",H.50.20 - Sea and coastal freight water transport
+37982,Grand Alliance/Americana Consortium,N,,"Americana Ships Line, Hapag-Lloyd Containe, NYK, Orient Overseas C., P&O; Nedlloyd Ltd",H.50.20 - Sea and coastal freight water transport
+35774,West Coast / Mediterranean Agreement,N,,"Ellerman Lines, KNSM-Kroonburgh BV, Zim Israel Navigatio",H.50.20 - Sea and coastal freight water transport
+33714,LE NOUVEAU GARAGE / VAG FRANCE,N,,"Nouveau Garage, VAG France",C.29.10 - Manufacture of motor vehicles
+39951,Internet Connectivity,N,,,J.61 - Telecommunications
+39813,Baltic rail transport,N,06-03-13,,H.49.2 - Freight rail transport
+39793,EPH and others,N,28-03-12,,"D - Electricity, gas, steam and air conditioning supply"
+39780,Envelopes,Y,10-12-14,"Bong AB, Bong Belgium SA, Bong GmbH, Bong Sverige AB, Bong U.K. Ltd., Edlef Bartl Holding GmbH, GPV France SAS, Heritage Envelopes Ltd., Holdham SA, Mayer-Kuvert network GmbH, Mayer-network GmbH, Printeos SA, Tompla Druckerzeugnisse Vertriebs GmbH, Tompla France SARL, Tompla Scandinavia AB, Tompla Sobre Expres SL",C.17 - Manufacture of paper and paper products
+40220,Qualcomm (exclusivity payments),N,16-07-15,,"C.26.30 - Manufacture of communication equipment, C.26.40 - Manufacture of consumer electronics"
+39794,Lufthansa/Turkish Airlines.,N,,"Deutsche Lufthansa AG, Turkish Airlines",H.51.10 - Passenger air transport
+39398,Visa MIF,N,26-02-14,"Visa Europe Limited, Visa Inc., Visa International Service Association","K.64.9 - Other financial service activities, except insurance and pension funding"
+34330,PELIKAN / KYOCERA,N,,,C.26.20 - Manufacture of computers and peripheral equipment
+36431,Info-Lab Ireland/Ricoh Corporation,N,,"Info-lab, Ricoh Corporation, Ricoh UK Products",C.26.20 - Manufacture of computers and peripheral equipment
+39595,Continental/United/Lufthansa/Air Canada,N,23-05-13,"Air Canada, Continental Airlines, Deutsche Lufthansa AG, United Air Lines Inc",H.51 - Air transport
+35151,IPS / Pechiney,N,,"IPS, Pechiney",C.24.45 - Other non-ferrous metal production
+40050,Volkswagen Group Italia (Seat),N,26-05-14,,G.45.1 - Sale of motor vehicles
+40072,Magyar Suzuki Corporation,N,14-10-14,,G.45.11 - Sale of cars and light motor vehicles
+39612,Perindopril (Servier),N,09-07-14,"Biogaran, Krka, Tovarna Zdravil , Laboratoires Servier, Lupin, Mylan, NICHE GENERICS (UK), Servier SAS, Teva (UK) Limited, Teva Pharmaceuticals Europe B.V., Unichem Laboratories",C.21.2 - Manufacture of pharmaceutical preparations
+39246,Boehringer,N,,,C.21.2 - Manufacture of pharmaceutical preparations
+40244,Bioethanol,Y,,,"C.11.01 - Distilling, rectifying and blending of spirits, C.19.20 - Manufacture of refined petroleum products, C.20.14 - Manufacture of other organic basic chemicals"
+39958,SU/CEZ,N,,,B.05 - Mining of coal and lignite
+39731,Deutsche Bahn II,N,18-12-13,"DB Energie GmbH, Deutsche Bahn AG","D.35.13 - Distribution of electricity, H.49.20 - Freight rail transport"
+40080,Romanian Retail CHAP(2012)01236,N,19-01-15,,"G.46.3 - Wholesale of food, beverages and tobacco, G.47 - Retail trade, except of motor vehicles and motorcycles"
+39924,Swiss Franc interest rate derivatives,Y,21-10-14,"Credit Suisse Group AG, Credit Suisse International, Credit Suisse Securities (Europe) Limited, JPMorgan Chase & Co, JPMorgan Chase Bank, National Association, The Royal Bank of Scotland Group plc, The Royal Bank of Scotland plc, UBS AG","K.66.19 - Other activities auxiliary to financial services, except insurance and pension funding"
+39181,Candle waxes,Y,01-10-08,"Deutsche Shell, ESSO Deutschland, Eni SpA, Esso SA, ExxonMobil Corp., ExxonMobil Petrol, H&R; ChemPharm GmbH, H&R; KG, H&R; Wax Company, MOL Nyrt, RWE AG, RWE-Dea AG, Repsol Petroleo SA, Repsol YPF (Rylesa), Repsol YPF SA, Sasol Holding DE, Sasol Limited, Sasol Wax, Sasol Wax Int., Shell DE, Shell DE Oil, Shell Int. Petroleum, Shell Petroleum, Shell Petroleum NV, Shell Transport, Total France, Total SA, Tudapetrol","C.19.20 - Manufacture of refined petroleum products, C.20 - Manufacture of chemicals and chemical products"
+39847,Ebooks,N,12-12-12,,J.58.11 - Book publishing
+39209,Altroconsumo 226,N,18-07-07,"Altroconsumo, Italia",J.60.2 - Television programming and broadcasting activities
+39801,Polyurethane Foam,Y,29-01-14,"Caligen Europe BV, Carpenter Belgium NV, Carpenter Co., Carpenter GmbH, Carpenter Limited, Carpenter S.A.S., Draka Interfoam BV, Eurofoam Deutschland GmbH Schaumstoffe, Eurofoam GmbH, Eurofoam Hungary Kft, Eurofoam KFM GmbH, Eurofoam Polska Sp z.oo, Greiner Holding AG, Icoa France S.A.S., Koepp Schaum GmbH, Metzeler Schaum GmbH, Recticel BV, Recticel Limited, Recticel NV/SA, Recticel OÜ, Recticel Verwaltung GmbH & Co KG, Recticel s.a.s., SC Eurofoam S.r.l., Tramico S.A.S., UAB Vita Baltic International, Veenendal Schaumstoffwerk GmbH, Vita Cayman Limited, Vita Cellular Foams (UK) Limited, Vita Industrial (UK) Limited, Vita Polymers Poland Sp.z o.o.","C.29.32 - Manufacture of other parts and accessories for motor vehicles, C.31.0 - Manufacture of furniture, C.31.09 - Manufacture of other furniture"
+39748,Automotive Wire Harnesses,Y,10-07-13,"Furukawa Automotive Systems, Furukawa Electric, Leoni, Leoni Wiring Systems France, S-Y Systems Technologies Europe, S-Y Systems Technologies France, Sumitomo Electric Industries , Sumitomo Electric Wiring Systems , Yazaki Corporation, Yazaki Europe",C.29.31 - Manufacture of electrical and electronic equipment for motor vehicles
+37766,Netherlands beer market,Y,18-04-07,"Bavaria NV, Grolsch, Heineken, Heineken Nederland, InBev, InBev Nederland",C.11.05 - Manufacture of beer
+39462,Freight Forwarding,Y,28-03-12,"Agility Logistics, Agility Logistics (Hong Kong), Beijing Kintetsu World Express, CEVA Freight (UK), CEVA Freight Shanghai, DHL Global Forwarding (China), DHL Global Forwarding (Hong Kong), DHL Global Forwarding (UK), DHL Logistics (China), DHL Management (Schweiz), DHL Supply Chain (Hong Kong), DSV AIR & SEA, Deutsche Bahn AG, Deutsche Post AG, EGL, Exel, Exel Freight Management (UK), Exel Group Holdings (Nederland), Expeditors Hong Kong, Expeditors International of Washington, Hellmann Worldwide Logistics, Hellmann Worldwide Logistics (Hong Kong), Kuehne + Nagel International, Kuehne + Nagel Ltd, Kuehne + Nagel Management, Nippon Express (China), Panalpina China, Panalpina Management, Panalpina World Transport (Holding), Schenker AG, Schenker China, Schenker International (H.K.), Schenker Limited, Toll Global Forwarding, Toll Global Forwarding (Hong Kong), UPS SCS (China), UPS Supply Chain Solutions, UTi Nederland, UTi Worldwide, UTi Worldwide (UK), United Parcel Service, Yusen Shenda Air & Sea Service (Shanghai)",H.51.21 - Freight air transport
+39309,LCD,Y,08-12-10,"AU Optronics Corporation, Chimei Innolux Corporation, Chunghwa Picture Tubes Ltd, HannStar Display Corporation, LG Display Co Ltd, LG Display Taiwan Co Ltd, Samsung Electronics Co Ltd, Samsung Electronics Taiwan Co Ltd",C.26.40 - Manufacture of consumer electronics
+39520,Cement and related products,Y,,,C.23.51 - Manufacture of cement
+39594,EDF wholesale spot electricity market,N,17-07-14,,D.35.14 - Trade of electricity
+39452,Mountings for windows and window-doors,Y,28-03-12,"Alban Giacomo SpA, Aug. Winkhaus GmbH & Co KG, Carl Fuhr GmbH & Co KG, Gretsch-Unitas Baubeschlaege, Gretsch-Unitas GmbH, Hautau GmbH, Heinrich Strenger GmbH & Co. KG, Mayer & Co Beschläge, NORAA GmbH, Roto Frank AG, Siegenia-Aubi KG",C.25.72 - Manufacture of locks and hinges
+38432,Professional videotape,Y,20-11-07,"Fujifilm Corporation, Fujifilm Holdings Co, Fujifilm Recording M, Hitachi Maxell Ltd, Maxell Europe Ltd, SONY Europe Holding, SONY France SA, Sony",C.26.4 - Manufacture of consumer electronics
+40153,E-book MFNs and related matters,N,,,G.47.61 - Retail sale of books in specialised stores
+40208,International Skating Union’s Eligibility rules,N,,,R.93.1 - Sports activities
+39168,Fasteners,Y,19-09-07,"A. Raymond, Berning, Coats Deutschland, Coats Holdings, Eclair Prym Group SA, Prym Inovan, Scovill, Scovill Europe, Stocko Fasteners, VBT Association, William Prym, YKK, YKK Japan",C.14.19 - Manufacture of other wearing apparel and accessories
+38710,Bitumen Spain,Y,03-10-07,"BP España SA, BP Oil España, BP p.l.c., CEPSA, Galp Energia ES, Galp Energia SGPS, Nynas Petróleo SA, Nynäs Petroleum AB, Petrogal, Productos Asfálticos, Repsol Petroleo SA, Repsol YPF (Rylesa), Repsol YPF SA",C.19.20 - Manufacture of refined petroleum products
+40049,MasterCard II,N,09-04-13,,"K.64.99 - Other financial service activities, except insurance and pension funding n.e.c."
+37904,Interbrew,N,,Interbrew,C.11.05 - Manufacture of beer
+38695,Sodium Chlorate,Y,11-06-08,"Akzo Nobel NV, Arkema SA, Arogonesas SA, Eka Chemicals, Elf Aquitaine, Erikem Luxembourg SA, Finnish Chemicals OY, Uralita SA",C.20.13 - Manufacture of other inorganic basic chemicals
+39860,Brussels Airlines/TAP Air Portugal,N,,"Brussels Airlines, TAP",H.51.10 - Passenger air transport
+37792,MICROSOFT,N,24-03-04,Microsoft Europe,C.26.2 - Manufacture of computers and peripheral equipment
+38629,Chloroprene Rubber,Y,05-12-07,"Bayer AG, Denka Chemicals GmbH, Denki Kagaku Kogyo, Dow Chemical Company, Du Pont Performance, Du Pont Performance, Du Pont de Nemours, Eni SpA, Polimeri Europa SpA, Tosoh Corporation, Tosoh Europe BV",C.20.17 - Manufacture of synthetic rubber in primary forms
+38456,Bitumen Nederland,Y,13-09-06,"BAM NBM Wegenbouw BV, BP Nederland BV, BP Refining & Chemic, BP p.l.c., Ballast Nedam, Ballast Nedam Infra, Dura Vermeer, Dura Vermeer Infra, Esha Holding BV, Esha Port Services, HBG Civiel BV, Heijmans, Heijmans Infrastruct, Klöckner Bitumen BV, Koninklijke BAM, Koninklijke Volker, Kuwait Petroleum, Kuwait Petroleum Int, Kuwait Petroleum NLD, Nynäs Belgium AB, Nynäs Petroleum AB, Shell Nederland, Shell Petroleum NV, Shell Transport, Sideron Industrial D, Smid & Hollander BV, Stevin Wegenbouw, Total Nederland NV, Total SA, Vermeer Infrastruct, Wintershall AG",C.20.13 - Manufacture of other inorganic basic chemicals
+39530,Microsoft (Tying),N,16-12-09,Microsoft,C.26.2 - Manufacture of computers and peripheral equipment
+37956,Ronds à béton,Y,17-12-02,"Acciaierie Leali , Alfa Acciai, Federacciai, Feralpi, Ferriera Valsabbia, Ferriere Nord, I.R.O., Leali, Lucchini, Riva, SP SpA (former Siderpotenza), Valsabbia",C.23.61 - Manufacture of concrete products for construction purposes
+39482,Exotic fruit,Y,12-10-11,,A.01.22 - Growing of tropical and subtropical fruits
+38628,Nitrile Butadiene Rubber,Y,23-01-08,"Bayer AG, Zeon Chemicals Europ, Zeon Corporation, Zeon Europe GmbH",C.20.17 - Manufacture of synthetic rubber in primary forms
+39633,Shrimps,Y,27-11-13,"Goldfish BV, Heiploeg BV, Heiploeg Beheer BV, Heiploeg Holding BV, Holding L.J.M. Kok BV, Klaas Puul BV, Klaas Puul Beheer BV, Klaas Puul Holding BV, L. Kok International Seafood BV, Stührk Delikatessen Import GmbH & Co. KG","G.46.38 - Wholesale of other food, including fish, crustaceans and molluscs"
+38899,Gas insulated switchgear,Y,24-01-07,"ABB Ltd, AREVA T&D; AG, AREVA T&D; Holding SA, AREVA T&D; SA, Alstom, Areva SA, EnBW Energie, Fuji Electric, Fuji Electric System, Hitachi Europe Ltd, Hitachi Ltd, Japan AE, Mitsubishi Electric Corporation, Nuova Magrini G, Schneider Electric, Siemens AG, Siemens AG Österreich, Siemens Transmis Ltd, Siemens Transmis SA, Toshiba Corporation, VA TECH Transmission",C.27.12 - Manufacture of electricity distribution and control apparatus
+39406,Marine hoses,Y,28-01-09,"Bridgestone, Bridgestone Industri, ContiTech AG, Continental AG, Dunlop Oil & Marine, Manuli Rubber Indust, Parker Hannifin Corp, Parker ITR Srl, Trelleborg AB, Trelleborg Industrie, Yokohama Rubber Co",C.22 - Manufacture of rubber and plastic products
+39180,Aluminium Fluoride,Y,25-06-08,"Boliden Odda, Fluorsid, Ind. Chim. Fluor, Ind. Quimica Mexico, Minmet Financing Co, Q.B. Industrias S.A.B. de C.V.","C.20.1 - Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms"
+39129,Power Transformers,Y,07-10-09,"ABB Ltd, AREVA T&D; SA, Alstom, Fuji Electric, Hitachi Europe Ltd, Hitachi Ltd, Siemens AG, Siemens AG Österreich, Toshiba Corporation","C.27.11 - Manufacture of electric motors, generators and transformers"
+38866,Animal Feed Phosphates,Y,20-07-10,"Compagnie Financière et de Participation Roullier, Ercros Industrial SA, Ercros SA, FMC Chemicals Netherlands BV, FMC Corporation, FMC Foret SA, José de Mello SGPS S.A, KEMIRA OYJ, Quimitecnica.com - Comercio e Industria Quimica SA, Tessenderlo Chemie, Timab Industries S.A, Yara Phosphates Oy, Yara Suomi Oy",C.20 - Manufacture of chemicals and chemical products
+40411,Google Search (AdSense),N,14-07-16,,J.63.12 - Web portals
+40400,Wall-E,N,,,"D.35.22 - Distribution of gaseous fuels through mains, D.35.23 - Trade of gas through mains"
+40335,The Wall,N,,,"D.35.22 - Distribution of gaseous fuels through mains, D.35.23 - Trade of gas through mains"
+39740,Google Search,N,30-11-10,Google,J.63.12 - Web portals
+39986,Motorola - Enforcement of ITU/ISO/IEC and IEEE standard essential patents,N,,,C.26.4 - Manufacture of consumer electronics
+39839,Telefónica and Portugal Telecom,N,23-01-13,,"J.61.1 - Wired telecommunications activities, J.61.2 - Wireless telecommunications activities, J.61.3 - Satellite telecommunications activities, J.61.90 - Other telecommunications activities"
+40134,Limes,N,,AB Inbev,"G.46.3 - Wholesale of food, beverages and tobacco"
+39092,Bathroom fittings & fixtures,Y,23-06-10,,"C.22.29 - Manufacture of other plastic products, C.23.42 - Manufacture of ceramic sanitary fixtures, C.28.14 - Manufacture of other taps and valves"
+39869,Easyjet Airline Ltd/NV Luchthaven Schiphol,N,,EasyJet Airline,H.51.1 - Passenger air transport
+35268,ITT Promedia / Belgacom,N,,"Belgacom, ITT Promedia","J.58.19 - Other publishing activities, J.61 - Telecommunications, M.73.1 - Advertising"
+39727,CEZ,N,10-04-13,,"D.35 - Electricity, gas, steam and air conditioning supply"
+39850,Container Shipping,N,,"A.P. Moller - Maersk, CMA CGM, China Shipping Containers Lines (CSCL), Cosco Container, Evergreen , HAMBURG SÜD, Hanjin Shipping, Hapag-Lloyd, Hyundai Merchant M., MOL, MSC, NYK, Orient Overseas, UASC, Zim",H.50.2 - Sea and coastal freight water transport
+39922,Automotive bearings,Y,19-03-14,"AB SKF, FAG Kugelfischer GmbH, INA-Holding Schaeffler GmbH & Co. KG, JTEKT Corporation, JTEKT Europe Bearings B.V., Koyo Deutschland GmbH, Koyo France SA, NSK Deutschland GmbH, NSK Europe Ltd., NSK Ltd., NTN Corporation, NTN Waelzlager (Europa) GmbH, NTN-SNR Roulements SA, Nachi Europe GmbH, Nachi-Fujikoshi Corporation, SKF GmbH, Schaeffler AG, Schaeffler Holding GmbH & Co. KG, Schaeffler Technologies GmbH & Co. KG","C.28.15 - Manufacture of bearings, gears, gearing and driving elements, C.29.32 - Manufacture of other parts and accessories for motor vehicles"
+39756,Marchés de l'eau et de l'assainissement en France,N,,"FP2E, SAUR, Suez Environnement, Veolia Environnement","E.36.00 - Water collection, treatment and supply"
+39401,E.On - GdF collusion,Y,08-07-09,"E.ON AG, E.ON Ruhrgas AG, GDF Suez",D.35.22 - Distribution of gaseous fuels through mains
+38121,Fittings,Y,20-09-06,"Aalberts Industries, Advanced Fluid, Aldway Nine Ltd, Aquatis France SAS, Comap SA, Delta Engineering, Delta Plc, Druryway Samba Ltd, FRA.BO SpA, Flowflex Components, Flowflex Holdings, IBP, IBP France SA, IBP GmbH, IMI Kynoch Ltd, IMI Plc, Kaimer GmbH & Co, Legris Industries, Mueller Europe Ltd, Mueller Industries, Pegler Ltd, Sanha Italia Srl, Sanha Kaimer, Simplex Armaturen, Supergrif SL, Tomkins plc, VSH Italia Srl, Viega GmbH & Co KG, WTC Holding Company, Yorkshire Fittings",C.33.20 - Installation of industrial machinery and equipment
+39796,Suez environnement - breach of seal,N,24-05-11,"Lyonnaise des Eaux, Suez Environnement","E.36.3 - Water collection, treatment and supply"
+39966,Gas Insulated Switchgear re-adoption,Y,,"Mitsubishi Electric Corporation, Toshiba Corporation",C.27.12 - Manufacture of electricity distribution and control apparatus
+39745,CDS - Information market,N,20-07-16,"ISDA, Markit Group Holdings Limited",K.66.11 - Administration of financial markets
+39876,EPC online payments,N,,EPC,"K.64.99 - Other financial service activities, except insurance and pension funding n.e.c."
+38784,Telefonica S.A. (broadband),N,04-07-07,"España, Telefónica de España, Wanadoo",J.61.10 - Wired telecommunications activities
+39326,E.On et al.,N,30-01-08,,D.35.12 - Transmission of electricity
+39654,Reuters Instrument Codes,N,20-12-12,Thomson Reuters Corporation,"K.66.19 - Other activities auxiliary to financial services, except insurance and pension funding"
+40136,Capacitors,Y,,,C.26.11 - Manufacture of electronic components
+39317,E.On gas foreclosure,N,04-05-10,E.ON AG,"D.35.22 - Distribution of gaseous fuels through mains, D.35.23 - Trade of gas through mains"
+37614,Interbrew + Alken Maes,Y,05-12-01,"Alken-Maes, Danone Groupe, Interbrew",C.11.05 - Manufacture of beer
+40009,Maritime Car Carriers,Y,,,H.50.20 - Sea and coastal freight water transport
+40018,Car battery recycling,Y,24-06-15,,E.38.32 - Recovery of sorted materials
+34579,MasterCard I,N,19-12-07,"Europay, MasterCard Internat.","K.64.9 - Other financial service activities, except insurance and pension funding"
+39960,Thermal systems,Y,,,"C.29.31 - Manufacture of electrical and electronic equipment for motor vehicles, C.29.32 - Manufacture of other parts and accessories for motor vehicles"
+39258,Airfreight,Y,09-11-10,"Air Canada, Air France, British Airways Plc, Cargolux Airlines International SA, Cathay Pacific Airways Limited, Deutsche Lufthansa AG, JAL, KLM, LAN Cargo SA, Martinair Holland NV, Quantas, Scandinavian Airlines System Denmark-Norway-Sweden, Singapore Airlines Limited, Swiss International Air Lines AG",H.51 - Air transport
+39610,Power cables,Y,02-04-14,"ABB AB, ABB Ltd, Brugg Kabel AG, EXSYM Corporation, Fujikura Ltd., Furukawa Electric Co. Ltd., General Cable Corporation, Goldman Sachs, Hitachi Metals Ltd., J-Power Systems Corporation, Kabelwerke Brugg AG Holding, LS Cable & System Ltd., Mitsubishi Cable Industries, Ltd., NKT Cables GmbH, NKT Holding A/S, Nexans, Nexans France, Nexans France SAS, Nexans SA, Pirelli & C.S.p.A., Prysmian, Prysmian Cavi e Sistemi Energia, Prysmian Cavi e Sistemi S.r.l., Prysmian S.p.A., SWCC SHOWA HOLDINGS CO.,LTD, Safran SA, Silec Cable SAS, Sumitomo Electric Industries , Taihan Electric Wire Co., Ltd., VISCAS Corporation","C.27.12 - Manufacture of electricity distribution and control apparatus, C.27.3 - Manufacture of wiring and wiring devices"
+39964,AF-KL/DL/AZ,N,12-05-15,,H.51.1 - Passenger air transport
+39824,Trucks,Y,19-07-16,"AB Volvo (publ), CNH Industrial N.V., DAF Trucks Deutschland GmbH, DAF Trucks N.V., Daimler AG , Fiat Chrysler Automobiles N.V., Iveco Magirus AG, Iveco S.p.A, MAN SE, MAN Truck & Bus AG, MAN Truck & Bus Deutschland GmbH, PACCAR Inc., Renault Trucks SAS, Volvo Group Trucks Central Europe GmbH, Volvo Lastvagnar AB",C.29.10 - Manufacture of motor vehicles
+39234,Alloy surcharge re-adoption,Y,21-12-06,"Thyssen Stahl GmbH, ThyssenKrupp Stainle",C.24 - Manufacture of basic metals
+39914,Euro Interest Rate Derivatives,Y,04-12-13,"Barclays, Deutsche Bank, RBS, Société Générale","K.64.30 - Trusts, funds and similar financial entities"
+37512,Vitamins,Y,21-11-01,"Aventis SA, BASF AG, Daiichi, Eisai Co Ltd, F. Hoffmann-La Roche, Kongo Chemical Co, Lonza AG, Merck KGaA, Solvay Pharmaceutic, Sumika Fine Chemical, Sumitomo Chemical Co, Takeda Chemical Ind, Tanabe Seiyaku Co",C.21.2 - Manufacture of pharmaceutical preparations
+37519,Methionine,Y,02-07-02,"Aventis SA, Degussa-Hüls AG, Nippon Soda, Novus International , Sumitomo Chemical Co","C.20.1 - Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms"
+37532,Alstom+Fiat,N,,"Alstom, Fiat Ferroviaria",
+37533,Choline chloride,Y,09-12-04,"Akzo Nobel BV, Akzo Nobel Chem Int, Akzo Nobel Funct, Akzo Nobel NV, Akzo Nobel Nederland, BASF AG, Bioproducts Inc, Chinook Group Ltd, Chinook Group Ltd, DuCoa, L.P., UCB",C.20.14 - Manufacture of other organic basic chemicals
+37542,Gas Natural + Endesa,N,,"Enagas SA, Endesa SA, Gas Natural SDG SA","D.35.1 - Electric power generation, transmission and distribution, D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains"
+37557,EUREX,N,,"Deutsche Börse, EUREX, Schweizer Börse",K - Financial and insurance activities
+37561,Pollydisc/Philips+Sony,N,,"Philips, Philips Electronics, Pollydisc, Sony",C.18.2 - Reproduction of recorded media
+37562,EUTELSAT,N,,EUTELSAT,J.61.30 - Satellite telecommunications activities
+37574,Coditel/Luxembourg,N,11-08-00,"Coditel, Luxembourg",J.61.10 - Wired telecommunications activities
+37576,UEFA Broadcasting Regulations,N,19-04-01,UEFA,J.60.2 - Television programming and broadcasting activities
+38823,Elevators and escalators,Y,21-02-07,"General Technic Sarl, General Technic-Otis, KONE BV, KONE Corporation, KONE GmbH, KONE Luxembourg Sarl, Kone Belgium SA, Mitsubishi Elevator, Otis BV, Otis Elevator Co, Otis GmbH & Co OHG, Otis NV/SA, Schindler GmbH, Schindler Holding, Schindler Liften BV, Schindler NV/SA, Schindler Sarl, ThyssenKrupp AG, ThyssenKrupp Ascense, ThyssenKrupp Aufzüge, ThyssenKrupp Elevato, ThyssenKrupp Fahrtr., ThyssenKrupp Lift BV, ThyssenKrupp Lift SA, United Technologies","C.28.22 - Manufacture of lifting and handling equipment, F.43.29 - Other construction installation"
+39972,Plastic pipe fittings,Y,,,C.22.23 - Manufacture of builders’ ware of plastic
+39849,BEH gas,N,04-07-13,,"D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains, D.35.22 - Distribution of gaseous fuels through mains"
+39768,Ciao / Google,N,,,J.63.12 - Web portals
+39736,SIEMENS/AREVA,N,18-06-12,"Areva SA, Siemens AG",D.35.11 - Production of electricity
+39605,CRT glass bulbs,Y,19-10-11,"Asahi Glass, Nippon Electric Glass Co., Ltd., Samsung Corning Precision Materials Co., Ltd., Schott AG",C.23.1 - Manufacture of glass and glass products
+38543,International Removal Services,Y,11-03-08,,H.52.29 - Other transportation support activities
+38281,Raw Tobacco IT,Y,20-10-05,"APTI, Alliance One Int, Deltafina, Mindo Srl, Romana Tabacchi SpA, Transcatab, Unitab, Universal Corp","G.46.21 - Wholesale of grain, unmanufactured tobacco, seeds and animal feeds, G.46.35 - Wholesale of tobacco products"
+39840,The MathWorks,N,,,"J.62 - Computer programming, consultancy and related activities"
+38638,Butadiene Rubber / Emulsion Styrene Butadiene Rubber,Y,29-11-06,"Bayer AG, DOW Deutschland Inc, Dow Chemical Company, Dow Deutschland, Dow Europe GmbH, Eni SpA, Kaucuk as, Michelin, Polimeri Europa SpA, Shell NL Chemie BV, Shell Nederland BV, Shell Petroleum NV, Trade-Stomil Ltd, Unipetrol as",C.20.17 - Manufacture of synthetic rubber in primary forms
+35808,MEDSAP Consortium,N,,"CIA Trans.Espanola, CSAV, Consorcio Naviero Pe, Italia Navigazione",H.50.20 - Sea and coastal freight water transport
+37811,Territorial Restrictions 1) Algerian gas export contracts 2) Expansion of TAG  pipeline,N,,"ENEL, Edison SpA, Eni SpA, OMV, SNAM SPA, Sonatrach",D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+39562,Slovakian postal Law,N,07-10-08,,H.53.20 - Other postal and courier activities
+39815,Assignment of spectrum for digital terrestrial television,N,22-05-12,,J.60 - Programming and broadcasting activities
+39097,Watch Repair,N,10-07-08,,"S.95.52 - Repair of watches, clocks and jewellery"
+39816,Upstream gas supplies in Central and Eastern Europe,N,31-08-12,Gazprom,"D.35.22 - Distribution of gaseous fuels through mains, D.35.23 - Trade of gas through mains"
+37507,Generics/Astra Zeneca,N,15-06-05,Astra AB,C.21.2 - Manufacture of pharmaceutical preparations
+35768,Joint Pool Agreement,N,,"Andrew Weir Shipping, Euro Africa S.Line",H.50.20 - Sea and coastal freight water transport
+35754,Consortium East Africa Container Service (EACS),N,,"Andrew Weir Shipping, Charente Steam , DSR-Senator Lines, Ellerman Lines, Mediterranean Ship., P&O; Containers UK, WEC Lines",H.50.20 - Sea and coastal freight water transport
+35763,NCS Consortium,N,,"CGM Sud, Charente Steam , Eggert & Amsinck, Flota Mercante Gran., Hapag-Lloyd, Nedlloyd Lines",H.50.20 - Sea and coastal freight water transport
+36319,Eurosal III Consortium,N,,"CGM Sud, CSAV, Eggert & Amsinck, Flota Mercante Gran., Hapag-Lloyd, Harrison Thos. & Jas, Nedlloyd Lines",H.50.20 - Sea and coastal freight water transport
+35202,Dampskibsselskabet Öresund + SweFerry,N,,"Oresund, SweFerry",H.50.20 - Sea and coastal freight water transport
+35614,Southern Africa Europe Container Service (SAECS III),N,,"CGM Sud, CMB Transport, Deutsche Afrika-Lin., Ellerman Harrison, Nedlloyd Lines, P&O; Containers UK, Safmarine & CMBT","H.50.20 - Sea and coastal freight water transport, H.52.22 - Service activities incidental to water transportation"
+39759,ARA foreclosure,N,12-07-11,Österreich,E.38.1 - Waste collection
+35737,PO/AENA,N,26-07-00,AENA,H.52.23 - Service activities incidental to air transportation
+40098,Blocktrains,Y,15-07-15,"Deutsche Bahn AG, Express Interfracht Hellas A.E., Kuehne + Nagel A.E., Kuehne + Nagel International, Rail Cargo Austria AG, Rail Cargo Logistics – Austria GmbH, SCHENKER A.E., Schenker & Co. AG, Schenker AG, ÖBB-Holding AG",H.49.20 - Freight rail transport
+39822,Refrigerants,N,16-12-11,,C.29.32 - Manufacture of other parts and accessories for motor vehicles
+38238,Raw Tobacco (ES),Y,20-10-04,"ACOTAB, ANETAB, ASAJA, Agroexpansion, CCAE, COAG, Cetarsa, Deltafina, Dimon Inc, FNCT, Intabex Netherlands, Standard Commercial, Standard Commercial, TABARES, TCLT, Taes, UPA, Universal Corp, Universal Leaf Tobac, WWTE","C.12.00 - Manufacture of tobacco products, G.46.21 - Wholesale of grain, unmanufactured tobacco, seeds and animal feeds, G.46.35 - Wholesale of tobacco products"
+39864,BASF,N,19-06-15,,C.20.2 - Manufacture of pesticides and other agrochemical products
+39741,P&I; Clubs,N,,P&I; Clubs,K.65.12 - Non-life insurance
+39965,Mushrooms,Y,25-06-14,"Bonduelle Conserve International SAS, Bonduelle SAS, Bonduelle SCA, C4C Holding BV, Grupo Riberebro ES, Grupo Riberebro Integral S.L., Lutece B.V., Lutece Holding BV, Peffer Holding BV, Prochamp B.V., Riberebro Integral S.A.U.",C.10.39 - Other processing and preserving of fruit and vegetables
+40015,Plastic pipe systems,Y,,,"C.22.21 - Manufacture of plastic plates, sheets, tubes and profiles"
+39775,1plusV/Google,N,,,J.63.12 - Web portals
+39692,IBM - Maintenance services,N,13-12-11,IBM Corporation,S.95.11 - Repair of computers and peripheral equipment
+39943,E5 - Cooperation among large telecom operators,N,,,J.61 - Telecommunications
+39416,Ship Classification,N,14-10-09,,O.84.13 - Regulation of and contribution to more efficient operation of businesses
+39596,BA/AA/IB,N,14-07-10,"American Airlines, British Airways Plc, Iberia Líneas Aéreas de España","H.51 - Air transport, H.51.10 - Passenger air transport"
+40291,Aquatrend,N,21-01-16,,G.46.66 - Wholesale of other office machinery and equipment
+39767,BEH Electricity,N,10-12-15,BEH - Bulgarian Energy Holding,D.35.14 - Trade of electricity
+40054,Ethanol benchmarks,Y,,,"G.46.71 - Wholesale of solid, liquid and gaseous fuels and related products"
+38074,VODAFONE + 10,N,,"Airtel Móvil, Belgacom Mobile, Europolitan, Libertel, Mannesmann Mobilfunk, Omnitel, Panafon, SFR, Tele.ring, Telecel, Vodafone",J.61.20 - Wireless telecommunications activities
+38075,PO/UK Gas Interconnector,N,,UK Gas Interconnecto,D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+38085,PO/Territorial restrictions - Austria,N,,"Gazprom, OMV",D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+38086,European Rail Shuttle + Maersk Intermodel Europe + P&O; Nedlloyd,N,,"European Rail Shuttl, Maersk Intermodel, P&O; Nedlloyd BV",H.49 - Land transport and transport via pipelines
+38089,M6 + TF1 + TF6 + Série Club,N,,"M6, Série Club, TF1, TF6",J.60.2 - Television programming and broadcasting activities
+38095,ABI+PPIAB,N,,"ABI, PPIAB","K.65 - Insurance, reinsurance and pension funding, except compulsory social security"
+38096,PO/Clearstream (Clearing and settlement),N,02-06-04,"Clearstream, Clearstream Intern.","K.66.1 - Activities auxiliary to financial services, except insurance and pension funding"
+38113,Prokent/Tomra,N,29-03-06,"PROKENT AG, TOMRA SYSTEMS",C.28.29 - Manufacture of other general-purpose machinery n.e.c.
+38118,SMEI + UMG + DUET,N,,"Duet, SMEI, UMG",C.18.20 - Reproduction of recorded media
+38119,MusicNet,N,,"AOL-Time Warner, Bertelsmann AG, EMI, MusicNet, RealNetworks",C.18.2 - Reproduction of recorded media
+38120,Pilkington+Saint-Gobain Glass France,N,,"Pilkington plc, Saint Gobain",C.23.11 - Manufacture of flat glass
+38126,Santiago Agreement,N,,"AEPI, AKM, BUMA, GEMA , IMRO, Koda, PRS, SABAM, SACEM, SGAE, SIAE, Stim, Teosto",C.18.20 - Reproduction of recorded media
+38135,Scottish Power+Northern Electric+3,N,,"Electricity Supply B, Northern Electric, Scottish Power, Selectusonline, United Utilities",C.27.32 - Manufacture of other electronic and electric wires and cables
+38139,DIAMOND TRADING COMPANY,N,,DTC,B.08.99 - Other mining and quarrying n.e.c.
+38143,MPEG LA + 5,N,,"FT, JVC, MEI, MPEG, Philips Electronics, US PHILIPS CORP",C.33.20 - Installation of industrial machinery and equipment
+38153,Chiron Corporation + F. Hoffmann-La Roche Ltd,N,,"Chiron, Hoffmann-La Roche F",C.32.5 - Manufacture of medical and dental instruments and supplies
+38158,Meca Medina+Majcen/Comité International Olympique,N,,"International Olympic Committee, Majcen Igor, Meca-Medina David",R.93.19 - Other sports activities
+38168,STONESOFT CORP/CHECK POINT SOFTWARE TECHNOLOGIES LTD,N,,"CHECK POINT SOFTWARE, STONESOFT CORP","J.62.0 - Computer programming, consultancy and related activities, J.62.09 - Other information technology and computer service activities"
+38170,REIMS II RENEWAL (DP+LA POSTE+DE POST+14),N,23-10-03,"Consignia plc, Correos y Telegrafos, De Post/La Poste, Deutsche Post AG, Finland Post, Hellenic Post ELTA, Iceland Post, LA POSTE, P&T; Luxembourg, Post Denmark, Post Ireland, Poste Italiane, Poste Portugal, Posten Norge BA, Posten Sverige AB, Swiss Post, Österreichische Post",H.53 - Postal and courier activities
+38173,The Football Association Premier League Limited,N,22-03-06,Football Assoc P L,J.60.2 - Television programming and broadcasting activities
+38176,DuBay GmbH + DuPont Deutschland Holding GmbH and Co. KG + Bayer AG,N,,"Bayer AG, Du Pont Deutschland, DuBay GmbH",C.20.16 - Manufacture of plastics in primary forms
+38187,PO/DUC-DONG,N,,"DONG, DUC",D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+38194,Neste Markkinointi Oy + Jakeluasema Timo Peltonen Ky,N,,"Jakeluasema Timo, Neste Markkinointi",
+38195,Neste Markkinointi Oy + Kaustisen Motelli Oy,N,,"Kautisen Motelli Oy, Neste Markkinointi",G.47.30 - Retail sale of automotive fuel in specialised stores
+38207,CNH GLOBAL NV GROUP + KOBELCO CONSTRUCTION MACHINERY CO. LTD,N,,"CNH, KCM","C.28.30 - Manufacture of agricultural and forestry machinery, C.33.20 - Installation of industrial machinery and equipment"
+38219,Axciom Corporation + AZ Bertelsmann Direct GmbH+ Reinhard Mohn GmbH,N,,"AZB, Acxiom, RM",J.62.01 - Computer programming activities
+38229,AMB Generali Holding AG+Commerzbank AG Frankfurt,N,,"AMB Generali, Commerzbank",
+38233,Wanadoo,N,16-07-03,"FT, Wanadoo",J.61.10 - Wired telecommunications activities
+38234,PO/British Midlands/United Airlines,N,,"British Midland, United Air Lines Inc",H.51 - Air transport
+37578,TeleBel+7/DT+Deutschland,N,21-05-03,"CNB, Citykom, DTAG, Deutschland, Dokom, HTN, Hamcom, KielNet, KomTel, TeleBeL",J.61.10 - Wired telecommunications activities
+37579,Ewe Tel+5/DT+Deutschland,N,21-05-03,"DTAG, Deutschland, EWE TEL, HanseNet , ISIS, NetCologne, Tesion, Vew Telnet",J.61.10 - Wired telecommunications activities
+37590,Pfizer+HMR+Inhale+Diabel,N,,"Diabel, HMR , Inhale, Pfizer Inc",C.21.20 - Manufacture of pharmaceutical preparations
+37592,EPS+5,N,,"DSV, EPS, Ringier, Starwatch, Swiss TXT, ZDF Enterprises","J.60.2 - Television programming and broadcasting activities, J.63.11 - Data processing, hosting and related activities"
+37612,Techjet Aerofoils+Rolls-Royce+Rolls-Royce Overseas H.+Blades Technology Intern.+Wertheimer Cy+Blades,N,,"Blades Tech.Ltd., Blades Technology, Rolls-Royce, Rolls-Royce Overseas, Techjet Aerofoils Lt, Wertheimer Company",
+37629,Tabacalera + Philip Morris,N,,"Fabriques de Tabac R, Logista, Philip Morris, Philip Morris Spain, Tabacalera SA",C.12.00 - Manufacture of tobacco products
+37638,Sector inquiry : LEASED LINES,N,,"BT, Belgacom, DTAG, FT, Finnet International, KPN Telecom, P &T; Luxembourg, PTA, Portugal Telecom, Sonera, Tele Danmark, Telecom Eireann, Telecom Italia SpA, Telefónica de España, Telia",J.61.10 - Wired telecommunications activities
+37644,Recticel + Woodbridge,N,,"Recticel, Woodbridge Foam",C.22.29 - Manufacture of other plastic products
+37650,Solvay + Elf Atochem + Viniclor,N,,"Arkema SA, Solvay NV, Viniclor SA",C.20.60 - Manufacture of man-made fibres
+37652,Telefonica+Sogecable+Gestsport+AVS+Canalsatelite+DTS+GMAF,N,,"AVS, Canalsatelite, DTS, GMAF, Gestsport, Sogecable, Telefonica Media","J.60.2 - Television programming and broadcasting activities, R.93.19 - Other sports activities"
+37667,Speciality graphite,Y,17-12-02,"Carbon Lorraine, Graftech, Ibiden Co Ltd, Intech EDM AG, Intech EDM BV, NSCC Techno-Carbon, Nippon Steel Chem, SGL Carbon AG, Tokai Carbon Co Ltd, Toyo Tanso Co Ltd",C.20.59 - Manufacture of other chemical products n.e.c.
+37671,Food flavour enhancers,Y,17-12-02,"Ajinomoto, Takeda",C.20.14 - Manufacture of other organic basic chemicals
+37685,Georg / Ferrovie,N,27-08-03,"Ferrovie dello Stato, Georg Verkehrsorgani",H.49 - Land transport and transport via pipelines
+37689,North Sea Liner Conference 2,N,,"Finncarriers, Poseidon Schiffahrt, United Baltic",H.49 - Land transport and transport via pipelines
+37698,APB,N,,APB,C.21.20 - Manufacture of pharmaceutical preparations
+37704,MCI/Mobile Termination Rates,N,,"Comviq, KPN Telecom, Libertel, MCI WorldCom, Mannesmann Mobilfunk, T-Mobile",J.61.20 - Wireless telecommunications activities
+37707,Broadcrest+11/Philips+Sony,N,,"Broadcrest, CD Press , CD-Linja, Condor, DCM, KDG, Logos, Mediadisc, OMD, Philips Electronics, Pozzoli, Prosoft, Sony, Tocano",C.33.20 - Installation of industrial machinery and equipment
+37708,Irish Corrib gas field,N,,"Enterprise Energy, Enterprise Oil plc, Marathon Petroleum, Statoil Exploration",D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+37709,B&W; Loudspeakers,N,,B&W; Loudspeakers Ltd,G.47.43 - Retail sale of audio and video equipment in specialised stores
+37711,Marine Mastic,N,,"Bitumarin Offshore, Hesselberg Hydro, Marine Mastic Ltd, Nodest Offshore AS, Thistle Aggregates","C.20.30 - Manufacture of paints, varnishes and similar coatings, printing ink and mastics"
+37721,Consorzio Risposta+ Consorzio Recapitali/Italy,N,21-12-00,"Consorzio Recapitali, Consorzio Risposta, Italia",H.53.20 - Other postal and courier activities
+37730,Deutsche Lufthansa+Austrian Airlines,N,05-07-02,"Austrian Airlines, Deutsche Lufthansa AG",H.51 - Air transport
+37732,Synergen,N,,"DBP, ESB, Electricity Supply B, Statoil, Synergen, Utility","D.35.1 - Electric power generation, transmission and distribution"
+37747,Rohm and Haas+Stockhausen+StoHaas,N,,"Rohm and Haas Compan, StoHaas, Stockhausen","C.20.1 - Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms"
+37749,Austrian Airlines + SAS,N,,"Austrian Airlines, Scandinavian Airlines System Denmark-Norway-Sweden",H.51.10 - Passenger air transport
+37750,French beer market,Y,29-09-04,"Danone Groupe, Heineken, Interbrew","C.11.05 - Manufacture of beer, G.46.34 - Wholesale of beverages"
+37752,European Parcels Group,N,,"British Post Office, Correos y Telegrafos, Deutsche Post AG, Finland Post, LA POSTE, P&T; Luxembourg, Post Denmark, Post Ireland, Poste Italiane, Poste Portugal, Posten Norge BA, Posten Sverige AB, SNCB-NMBS, TNT",H.53.1 - Postal activities under universal service obligation
+37760,Onda Digital/Sogecable+Telefonica+AVS,N,,"AVS, Onda Digital, Sogecable, Telefonica Media",J.60.2 - Television programming and broadcasting activities
+37761,Euromax/Imax,N,25-03-04,"Euromax, Imax","J.59.1 - Motion picture, video and television programme activities"
+37769,Bayer SA+ Bayer Corporation + Lyondell,N,,"Bayer AG, Bayer Corporation, Lyondell","C.20.1 - Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms"
+37773,MCAA (Monochloroacetic acid),Y,19-01-05,"Akzo Nobel AB, Akzo Nobel Base Chem, Akzo Nobel Chemicals BV, Akzo Nobel Funct, Akzo Nobel NV, Akzo Nobel Nederland, Arkema SA, Clariant AG, Clariant GmbH, Eka Chemicals, Elf Aquitaine, Hoechst AG","C.20.1 - Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms"
+37775,Cemep+20,N,,"ABB, ABM, AEG Fabrica Motores, ATB , Brook Motors Ltd, CEMEP, EFACEC, Electro Adda, Felten , Fimet, Hanning, Invensys (ex Brook ), Lafert SpA, Loher AG, Marelli Motori SpA, Moterus Leroy Somer, Oemer, SEW-Eurodrive, Schorch , Sicme, Siemens AG, VEM Motors GmbH",C.33.20 - Installation of industrial machinery and equipment
+37779,BASF+Sonatrach+3,N,,"BASF, BASF AG, Propanchem, Sonatrach, Sonatrach","C.20.1 - Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms"
+37784,Fine art Auction Houses,Y,30-10-02,"Christie's, Sotheby's","R.91.0 - Libraries, archives, museums and other cultural activities"
+37786,euro-zone exchange charges - Austria,Y,,Österreich. Banken,K.64.1 - Monetary intermediation
+37787,Euro-zone exchange charges - Belgium,Y,,BVB,K.64.1 - Monetary intermediation
+37788,Euro-zone exchange charges -Finland,Y,,Suomen Pankkiyhdisty,K.64.1 - Monetary intermediation
+37789,Euro-zone exchange charges -Portugal,Y,,Bancos Portuguesa,K.64.1 - Monetary intermediation
+37790,Euro-zone exchange charges -Ireland,Y,,Irish Bankers,K.64.1 - Monetary intermediation
+37791,Euro-zone exchange charges - The Netherlands,Y,,Vereniging Banken NL,K.64.1 - Monetary intermediation
+37800,Luxembourg brewing industry,Y,05-12-01,"Brasserie Battin, Brasserie J Simon, Brasserie Nationale, Mousel-Diekirch",C.11.05 - Manufacture of beer
+37802,Dynamit Nobel+Orica,N,,"DNES, Orica","C.20.51 - Manufacture of explosives, C.27.90 - Manufacture of other electrical equipment"
+37806,ENIC/UEFA,N,25-06-02,"Enic plc, UEFA",R.93.19 - Other sports activities
+37809,RVM/Telefónica+Sogecable+5,N,,"Canalsatelite, DTS, GMAF, Gestsport, RVM, Sogecable, Telefonica Media",J.60.2 - Television programming and broadcasting activities
+37812,BM+Lufthansa+SAS,N,,"British Midland, Deutsche Lufthansa AG, Scandinavian Airlines System Denmark-Norway-Sweden",H.51 - Air transport
+37841,Elf Atochem+Solvay+2,N,,"Arkema SA, SCVF, Solvay NV, Vinylberre","C.20.1 - Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms"
+37846,Neles+VIB,N,,"Neles, V.I.B.",C.28.9 - Manufacture of other special-purpose machinery
+37851,PO/ Carlsberg + Heineken,Y,,"Carlsberg, Heineken",
+37854,Pilkington Glass France SAS & Interpane Glass Coating France SAS,N,,"Interpane, Interpane France, Pilkington France, Pilkington plc",C.23.11 - Manufacture of flat glass
+37857,Organic peroxyde,Y,10-12-03,"AC Treuhand AG, Akzo, Arkema SA, Degussa UK, Laporte Industries, Perorsa, Peroxid Chemie",C.20.13 - Manufacture of other inorganic basic chemicals
+37859,Hays / La Poste Belge & Key Mail,N,05-12-01,"Hays Information Man, Hays plc, Key Mail SA, Poste belge, UPEA","H.53.1 - Postal activities under universal service obligation, H.53.20 - Other postal and courier activities"
+37860,Morgan Stanley Dean Witter/Visa,N,03-10-07,"Morgan Stanley, Morgan Stanley, Visa International Service Association","K.64.9 - Other financial service activities, except insurance and pension funding"
+37866,Volbroker+4,N,,"Citibank, DB  UK, Goldman Sachs, UBS, Volbroker",K - Financial and insurance activities
+37874,"Unicer, Centralcer, AICP",Y,,"AICP, Centralcer, Unicer",C.11.05 - Manufacture of beer
+37889,FIAT+GM,N,,"Fiat SpA, GM",C.33.20 - Installation of industrial machinery and equipment
+37893,Ceced,N,,CECED,C.27.51 - Manufacture of electric domestic appliances
+37894,Ceced,N,,CECED,C.27.51 - Manufacture of electric domestic appliances
+37906,Internetbuchhandel,N,,"A-V, LIBRO",J.58.11 - Book publishing
+37919,Commissions bancaires-Allemagne,Y,11-12-01,"Bayerische Hypo-, Commerzbank, DVKbank, Dresdner Bank AG, VundWBank",K.64.1 - Monetary intermediation
+37920,3G Patent Platform+18,N,,"Alcatel, Bosch Robert, CEGETEL, ETRI, FT, Fujitsu, KPN Telecom BV, LG, Matsushita, Mitsubishi Electric, NEC Corporation, NTT, SK Telecom, Samsung Electronics, Siemens AG, Sonera, Sony, TIM","C.26.30 - Manufacture of communication equipment, J.61.20 - Wireless telecommunications activities"
+37921,Viking Cable+3,N,,"PreussenElektra AG, Statkraft SF, Statnett SF, Viking Cable AS","D.35.1 - Electric power generation, transmission and distribution"
+37924,PO/Microsoft+UPC,N,,"Microsoft, UPC",C.33.20 - Installation of industrial machinery and equipment
+37925,PO/Microsoft+NTL,N,,"Microsoft, NTL",C.33.20 - Installation of industrial machinery and equipment
+37932,Cupido+2/Stichting EURO 2000+2,N,13-12-02,"Cupido, European, ISL Marketing, Stichting Euro, Travelagency, Union",R.93.19 - Other sports activities
+37939,P&O; Stena Line 2,N,,"P&O;, P&O; European Ferries, P&O; Stena Line Ltd, Stena Line Ltd",
+37949,DuPont de Nemours+Borealis,N,,"Borealis, Du Pont de Nemours",C.20.60 - Manufacture of man-made fibres
+37966,Distrigaz,N,11-10-07,Distrigaz,D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+37974,UFEX / La Poste,N,19-11-04,"LA POSTE, SFEI, SFMI",H.53.20 - Other postal and courier activities
+37975,PO/YAMAHA,N,16-07-03,"Yamaha, Yamaha Corporation, Yamaha Europe GmbH, Yamaha Music Belgium, Yamaha Musica Italia, Yamaha Scandinavia",C.32.2 - Manufacture of musical instruments
+37978,PO/Methylglucamine,Y,27-11-02,"Aventis Pharma AG, Merck KGaA, Rhône-Poulenc Bio",C.20.59 - Manufacture of other chemical products n.e.c.
+37980,Souris Bleue/TOPPS + Nintendo,N,26-05-04,"La Souris Bleue, Nintendo Co. Ltd, Topps",C.32.9 - Manufacturing n.e.c.
+37981,Tariff rebalancing-Italy,N,,Italia,J.61.10 - Wired telecommunications activities
+37984,SKYTEAM,N,19-06-06,"Aeromexico, Air France, Delta Air Lines, Korean Air",H.51 - Air transport
+37985,PO/DB GVG/SJ,N,,"Deutsche Bahn AG, GVG",H.49 - Land transport and transport via pipelines
+37990,Intel,N,13-05-09,Intel Corporation,C.26.2 - Manufacture of computers and peripheral equipment
+37995,INTELSAT,N,,INTELSAT,J.61.30 - Satellite telecommunications activities
+38006,Online Travel Portal Limited+9 (OPODO),N,,"AUA Beteiligungen, Aer Lingus, Air France Finance, Alitalia, British Airways Plc, Finnair, Iberia, KLM, Lufthansa Commercial, OTP",H.51 - Air transport
+38014,International Federation of the Phonographic Industry,N,08-10-02,IFPI,J.60.2 - Television programming and broadcasting activities
+38015,PO/Interconnector France-UK+3,N,,"NGC, RTE , Service Electricité","D.35.1 - Electric power generation, transmission and distribution"
+38016,NSAB + MTG,N,,"MTG, NSAB",J.60.2 - Television programming and broadcasting activities
+38037,PO/EMI,N,,EMI,C.18.20 - Reproduction of recorded media
+38038,PO/BMG,N,,BMG Music,C.18.20 - Reproduction of recorded media
+38039,PO/SONY,N,,SMEI UK,C.18.20 - Reproduction of recorded media
+38040,PO/UNIVERSAL,N,,UMG,C.18.20 - Reproduction of recorded media
+38041,PO/WARNER,N,,WARNER,C.18.20 - Reproduction of recorded media
+38044,National Data Corporation/IMS Global Services,N,25-06-09,"IMS, National Data Corpor",M.73.20 - Market research and public opinion polling
+38051,Pro Europe,N,,"ARA, Eco-Emballages, Ecoembalajes, Fost Plus, Materialretur, Pro Europe, Repak, Sociedade Ponto Verd",E.37.00 - Sewerage
+38064,COVISINT+5,N,,"Covisint, DaimlerChrysler AG, Ford Motor Company, GM, Nissan Motor Co Ltd, Renault",C.33.20 - Installation of industrial machinery and equipment
+38069,PO/Copper plumbing tubes,Y,03-09-04,"Austria Buntmetall, Boliden AB, Boliden Cuivre Zinc, Buntmetall Amstetten, Deno Acquisition, Deno Holding Company, Europa Metalli SpA, HME Nederland BV, Halcor SA, IMI Plc, KM Europa Metal AG, Mueller Europe Ltd, Mueller Industries, Outokumpu Oyj, Tréfimétaux SA, WTC Holding Company, Wieland Werke AG, Yorkshire Copper",C.33.20 - Installation of industrial machinery and equipment
+28841,ABG + AVIA / Gulf + Chevron + Texaco + Mobil + Total + Fina + BP + Shell,N,19-04-77,"Avia International, BP, Chevron UK, Mobil, Petrofina, Shell, Texaco, Texaco Inc.",B.06.1 - Extraction of crude petroleum
+29373,Visa International,N,09-08-01,"Ibanco Ltd, Visa International Service Association",K.64.19 - Other monetary intermediation
+30566,UIP,N,20-07-99,"CIC, MCA Inc., MGM, Paramount Pictures C, UA, UIP NL , Universal City Studi","J.59.13 - Motion picture, video and television programme distribution activities"
+32150,EBU (Eurovision),N,10-05-00,"Antena 3 Television, EBU-UER, M6, SIC, Telecinco",J.60.2 - Television programming and broadcasting activities
+32450,"CEWAL & autres Conférences africaines (MEWAC, COWAC UKWAL)Se",Y,30-04-04,"CMB Transport, Danmarks Rederifor.",H.50 - Water transport
+32948,PO/DUNLOP SLAZENGER+SUMITOMO,N,21-12-94,"Dunlop Slazenger, Sumitomo",C - Manufacturing
+33690,CATERPILLAR,N,01-04-03,"Binda Gerard, Caterpillar, Caterpillar Export S, Caterpillar Overseas, Haladjian","C.28.92 - Manufacture of machinery for mining, quarrying and construction"
+33708,PO/BRITISH SUGAR PLC,Y,14-10-98,British Sugar,C.10.81 - Manufacture of sugar
+33793,POSTORDERBOND/ABN-AMRO+2,N,08-09-99,"ABN-AMRO, NMB Postbank, Postorderbond, Rabobank",K - Financial and insurance activities
+33884,FEG & TU,Y,26-10-99,"City Electrical NLD, City Electrical UK, FEG, NAVEG , Technische Unie BV, Uneto","C.27.12 - Manufacture of electricity distribution and control apparatus, C.27.32 - Manufacture of other electronic and electric wires and cables"
+34010,NEDERLANDSE VERENIGING VAN BANKEN+4,N,08-09-99,"Interpay, NMB / Postbank Groep, Rabobank, Spaarbankbond, Vereniging Banken NL",K.64.19 - Other monetary intermediation
+34018,FETTSCA (Far East Trade Tariff and Surcharges Agreement),Y,16-05-00,"Cho Yang Shipping, ECS , Evergreen Marine, Far Eastern Freight , Hanjin Shipping, Rostock, Senator Line, Yangming Marine Tran",H.50.20 - Sea and coastal freight water transport
+34234,VNU / NVB + 4,N,08-09-99,"ABN-AMRO, Interpay, NMB / Postbank Groep, Rabobank, VNU, Vereniging Banken NL",K.64.19 - Other monetary intermediation
+34237,ANHEUSER-BUSCH + S&N;,N,,"Anheuser-Busch, Scottish & Newcastle",C.11.05 - Manufacture of beer
+34250,EATA (Europe Asia Trades Agreement),N,30-04-99,"Cho Yang Shipping, DSR-Senator Lines, Evergreen Marine, Hanjin Shipping, Hapag-Lloyd Containe, Hyundai Merchant M., K Line, MISC, Mitsui O.S.K. Lines, Moller-Maersk LIne, NYK, Neptune O.Lines, Orient Overseas, P&O; Nedlloyd Contain, Yangming Marine Tran",H.50.20 - Sea and coastal freight water transport
+34466,Greek Ferries,Y,09-12-98,"Adriatica di Navig., Grammes Strinzis N, Karageorgis Lines, Marlines, Mionan Lines Ane, Ventouris group",H.50.20 - Sea and coastal freight water transport
+34493,DSD,N,20-04-01,DSD Duales System,E.38.3 - Materials recovery
+34621,PO / IRISH SUGAR (IRELAND),N,14-07-97,Irish Sugar,C.10.81 - Manufacture of sugar
+34780,VIRGIN/BRITISH AIRWAYS,N,14-07-99,"British Airways Plc, Virgin Enterprises","H.51 - Air transport, H.52.23 - Service activities incidental to air transportation"
+34888,NOTU + NCRV / NVB + ING,N,08-09-99,"ING, NCRV, NOTU, Vereniging Banken NL","K.64 - Financial service activities, except insurance and pension funding"
+34983,PO / Fenex,Y,05-06-96,FENEX,H.52.29 - Other transportation support activities
+35059,Gem Pack / Irish Sugar,N,14-05-97,"Gem Pack Foods, Greencore, Irish Sugar, Sugar Distributors",C.10.81 - Manufacture of sugar
+35079,Whitbread,N,24-02-99,Whitbread,C.11.05 - Manufacture of beer
+35141,United Parcel Service / Deutsche Post AG,N,20-03-01,"DBP, UPS",H.53.20 - Other postal and courier activities
+35163,FIA,N,,FIA,R.93.19 - Other sports activities
+35266,FIFA,N,10-03-00,FIFA,C.32.30 - Manufacture of sports goods
+35449,Allied Domecq,N,,Allied Domecq,C.11.05 - Manufacture of beer
+35470,A.R.A. (ex EFTA 0030),N,16-10-03,"ARA, AVM Arbeitsgemeins., Altpapier-Recycling, Aluminium Recycling, Argev, Austria Glas, Ferropack Recycling, Verein Holzpackmitte, Ökk",E.38.3 - Materials recovery
+35473,Argev (ex EFTA 0042),N,16-10-03,"Aluminium Recycling, Argev Verpackung, Ökk",E.38.3 - Materials recovery
+35587,Video games,N,30-10-02,"Bergsala AB, CD-Contact Data GmbH, Concentra SA, Itochu Corporation, John Menzies plc, Linea GIG SpA, Nintendo Co. Ltd, Nintendo UK, Nintendo of Europe, Sega Enterprises Ltd, Sega Europe Group","C.26.2 - Manufacture of computers and peripheral equipment, J.62.0 - Computer programming, consultancy and related activities"
+35691,Pre-insulated pipe cartel,Y,,"ABB, Brugg, Dansk Rorindustri, HFB Holding , Isoplus, KWH Pipe , Ke-Kelit, LR AS, Pan-Isovit , Sigma, Tarco Energi","C.24.20 - Manufacture of tubes, pipes, hollow profiles and related fittings, of steel"
+35703,PO / ANA,N,10-02-99,ANA,"H.51 - Air transport, H.52.23 - Service activities incidental to air transportation"
+35706,PO / Nintendo distribution,N,30-10-02,"Bergsala AB, CD-Contact Data GmbH, Concentra SA, Itochu Corporation, John Menzies plc, Linea GIG SpA, Nintendo Co. Ltd, Nintendo of Europe",C.32.4 - Manufacture of games and toys
+35767,PO / redevances d'atterrissage en Finlande (Ilmailulaitos Luftfartsverket),N,10-02-99,Ilmailulaitos Luftfa,H.52.23 - Service activities incidental to air transportation
+35814,Extra d'alliage,Y,21-01-98,"ALZ, AST, Acerinox, Avesta Sheffield, Krupp Thyssen N, Ugine, Usinor",C.24.10 - Manufacture of basic iron and steel and of ferro-alloys
+35860,Seamless steel tubes,Y,08-12-99,"British Steel plc, Corus UK, Dalmine SpA, Europipe, ILVA Lamiere Tubi, JFE Engineering Corp, JFE Steel Corp, Mannesmannröhrenwerk, NSC, Sumitomo Metal Ind., Usinor Sacilor, Vallourec Industries","C.24.20 - Manufacture of tubes, pipes, hollow profiles and related fittings, of steel"
+35918,Central Parts/JCB+1,N,21-12-00,"Central Parts, JCB France, JCB Landpower","C.28.92 - Manufacture of machinery for mining, quarrying and construction"
+35992,Scottish & Newcastle,N,16-06-99,Scottish & Newcastle,C.11.05 - Manufacture of beer
+36010,AAMS,N,17-06-98,"AAMS, Italia, Reynolds Tobacco Gmb, Reynolds Tobacco SAE",C.12.00 - Manufacture of tobacco products
+36041,PO/Michelin,N,20-06-01,Michelin Comp. Gén.,C.22.11 - Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres
+36072,GFU - Norwegian Gas Negotiation Committee,Y,,"A/S Norske Shell, AS Pelican, Amerada Hess Norge, BP Amoco Norge, Conoco Norway, Entr. Oil Norge, Entr. Oil Norwegian, Esso Norge, Esso Norway, Fina Norway, Fortum Petroleum, Idemitsu Norway, Idemitsu Petroleum, Marathon Petroleum, Mobil Dev. Norway, Mobil Expl. Norway, Norsk Agip, Norsk Chevron, Norsk Hydro, Norsk Hydro, Norske Conoco, Norske Moeco, Paladin Resources, Petro-Canada, Petro-Canada Norge, Petro-Canada Norway, Philips Petroleum, Philips Petroleum, RWE-DEA Norge, Saga Petroleum, Statoil, Total Norge AS, TotalFinaElf Norge",D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+36076,PO/United Airlines+Lufthansa. ART.85,N,28-10-02,"Deutsche Lufthansa AG, United Air Lines Inc",H.51 - Air transport
+36078,PO/United Air Lines+SAS. ART.85,N,28-10-02,"Scandinavian Airlines System Denmark-Norway-Sweden, United Air Lines Inc",H.51 - Air transport
+36081,Bass Holdings+Bass Lease,N,16-06-99,"Bass Holdings Ltd, Bass Lease, Colin, Colin Arthur, Michael Hamilton, Timothy John",C.11.05 - Manufacture of beer
+36111,PO/KLM+Northwest (Art. 85),N,28-10-02,"KLM, Northwest",H.51 - Air transport
+36147,IMA,N,07-04-99,IMA,M.69.10 - Legal activities
+36160,Internationale Dentalschau,N,,"GFDI, VDDI",
+36201,PO / Lufthansa + SAS + United (art 85),N,28-10-02,"Deutsche Lufthansa AG, Scandinavian Airlines System Denmark-Norway-Sweden, United Air Lines Inc",H.51.10 - Passenger air transport
+36213,Pratt &Whitney;+General Electric Aircraft+2,N,14-09-99,"General Electric, General Electric A.E, Pratt & Whitney, United Technologies",C.30.3 - Manufacture of air and spacecraft and related machinery
+36237,TPS + 7,N,03-03-99,"CLT, FT, France 2, France 3, Lyonnaise des Eaux, M6, TF1, TPS",J.60.2 - Television programming and broadcasting activities
+36246,Marathon/Ruhrgas/GDF et alia,N,30-04-04,"Brigitta BEB Erdgas, Gasunie, Gaz de France, Marathon Petroleum, Marathon Petroleum, Ruhrgas AG, Thyssengas GmbH",D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+36253,P&O; Stena Line,N,26-01-99,"P&O;, P&O; European Ferries, P&O; Stena Line Ltd, Stena Line Ltd",H.50.20 - Sea and coastal freight water transport
+36264,PO / Mercedes-Benz,N,10-10-01,"Mercedes-Benz AG, Mercedes-Benz BE, Mercedes-Benz España",G.45.1 - Sale of motor vehicles
+36456,"""new"" Inntrepreneur standard pub leases",N,29-06-00,"Inntrepreneur, TIBSCO",C.11.05 - Manufacture of beer
+36490,Graphite electrodes/PO,Y,18-07-01,"Carbide/Graphite, Graftech, Nippon Carbon Co Ltd, SEC Corporation, SGL Carbon AG, Showa Denko KK, Tokai Carbon Co Ltd, VAW Aluminium AG",C.28.91 - Manufacture of machinery for metallurgy
+36492,Spring Inns,N,29-06-00,Spring Inns,C.11.05 - Manufacture of beer
+36516,PO / Nathan & Bricolux,N,05-07-00,"Bricolux, Edrasco, Nathan","C.31.0 - Manufacture of furniture, C.31.09 - Manufacture of other furniture, J.58.11 - Book publishing"
+36533,Yves Saint Laurent,N,17-05-01,Yves Saint Laurent,C.20.42 - Manufacture of perfumes and toilet preparations
+36539,BiB+4,N,15-09-99,"BSkyB, BT Holdings, BiB, Matsushita Electr.Eu, Midland Bank",J.60.2 - Television programming and broadcasting activities
+36545,PO/Amino acids,Y,07-06-00,"ADM, Ajinomoto, Cheil Jedang, Kyowa Hakko Kogyo, Sewon Company",C.10.91 - Manufacture of prepared feeds for farm animals
+36559,British Gas+Wingas+1,N,12-09-02,"British Gas, British Gas Trading, Wingas",D.35.2 - Manufacture of gas; distribution of gaseous fuels through mains
+36563,IATA Cargo Tariff Consultations,N,,IATA,H.51 - Air transport
+36568,Scandlines Sverige v. Port of Helsingborg,N,23-07-04,"Helsingborgs Hamn, Scandlines Sverige",H.52.22 - Service activities incidental to water transportation
+36571,Österreichische Banken,Y,11-06-02,"BAWAG, Bank Austria AG, Erste Bank, Hypo NÖ, PSK, RLB, RZB, ÖVAG",K.64.19 - Other monetary intermediation
+36581,Télécom Developpement+4,N,27-07-99,"CEGETEL, CEGETEL Entreprises, SNCF, Télécom Dev.Services, Télécom Dévelop.",J.61.10 - Wired telecommunications activities
+36592,CEGETEL+4,N,20-05-99,"BT, CEGETEL, CGE, Mannesmann AG, SBC International",J.61 - Telecommunications
+36604,Citric acid,Y,05-12-01,"ADM, Bayer AG, Cerestar Bioproducts, Citrique Belge NV, F. Hoffmann-La Roche, Haarmann & Reimer, Jungbunzlauer AG",C.20.14 - Manufacture of other organic basic chemicals
+36623,SEP et autres / Automobiles Peugeot SA,N,05-10-05,"Peugeot, Peugeot Nederland",C.29.10 - Manufacture of motor vehicles
+36638,FIA + FOA,N,,"FIA, FOA","J.60.2 - Television programming and broadcasting activities, R.93.11 - Operation of sports facilities, R.93.19 - Other sports activities"
+36653,Opel Nederland BV/General Motors Nederland BV,N,20-09-00,"AMR, GME, Opel Nederland BV, Van Twist Opel BV",G.45.1 - Sale of motor vehicles
+36693,VW,N,29-06-01,Volkswagen AG,C.30.91 - Manufacture of motorcycles
+36700,PO/industrial and medical gases,Y,24-07-02,"AGA AB, Air Liquide BV, Air Products, Air Products Europe, BOC Group, Hoek Loos NV, Messer Nederland BV, Westfalen Gassen NL",C.20.11 - Manufacture of industrial gases
+36718,CECED,N,24-01-99,CECED,C.27.51 - Manufacture of electric domestic appliances
+36732,Solvay+Sisecam+6,N,,"EBRD, H & C Verwaltung, Sisecam, Soda Sanayii, Solvay Deutschland, Solvay NV, Solvay Sodi Holding, Solvay-Sodi SPJSCO",C.20.13 - Manufacture of other inorganic basic chemicals
+36748,REIMS II+13,N,15-09-99,"British Post Office, Correos y Telegrafos, Deutsche Post AG, Finland Post, Hellenic Post ELTA, P&T; Luxembourg, PTA, PTI, Post Denmark, Post Ireland, Poste Française, Poste Italiane, Poste Portugal, Poste belge, Posten Norge BA, Posten Sverige AB",H.53.20 - Other postal and courier activities
+36751,Alenia/Eurocontrol,N,12-02-04,"ALENIA Difesa, Eurocontrol",C.28 - Manufacture of machinery and equipment n.e.c.
+36756,Sodium Gluconate,Y,29-09-04,"ADM, Akzo Nobel NV, Avebe, Fujisawa, Jungbunzlauer AG, Jungbunzlauer AT, Jungbunzlauer Hold, Jungbunzlauer Ladenb, Roquette",C.20.13 - Manufacture of other inorganic basic chemicals
+36776,GTR/FIA et autres+5,N,,"Ecclestone B., FIA, FOA, FOCA, GTR Organisation, ISC, Special Events Prod.","J.60.2 - Television programming and broadcasting activities, R.93.19 - Other sports activities"
+36816,Source/IMS+1,N,24-10-00,"IMS Belgium, IMS International, Source",M.73.20 - Market research and public opinion polling
+36817,PO/Nederlandse Vissersbond,N,23-01-01,Nederlandse Visserb.,A.03.11 - Marine fishing
+36820,SEP et autres / Automobiles Peugeot SA,N,05-10-05,"Peugeot, Peugeot Nederland",C.30.91 - Manufacture of motorcycles
+36834,FENIN/SNS+Spain,N,26-08-99,FENIN,C.32.5 - Manufacture of medical and dental instruments and supplies
+36841,PO/Unisource+5,N,29-12-00,"PTT Telecom, Schweizerische PTT, Telefónica de España, Telia, Unisource, Unisource Intern.",J.61.10 - Wired telecommunications activities
+36888,PO/World Cup 1998,N,20-07-99,George Paton,R.93.19 - Other sports activities
+36915,British Post / Deutsche Post,N,25-07-01,"British Post Office, Deutsche Post AG",H.53.1 - Postal activities under universal service obligation
+36932,Eisai+Pfizer,N,,"Eisai Co Ltd, Pfizer Inc",C.21.20 - Manufacture of pharmaceutical preparations
+37005,EK/Saeco+1,N,,"EK Grosseinkauf, Saeco, Saeco",C.27.51 - Manufacture of electric domestic appliances
+37027,Zinc Phosphate,Y,11-12-01,"Britannia Alloys, Heubach, James Brown, SNCZ, Trident, Union Pigments AS",C.20 - Manufacture of chemicals and chemical products
+37055,NDC/IMS+2,N,24-10-00,"IMS, NDC, Source Europe, Walsh",M.73.20 - Market research and public opinion polling
+37070,Monitoring of conditions in Regulation 1105/2002,N,,"IATA, Sabena",H.51 - Air transport
+37124,Piau vs FIFA,N,16-04-02,"FIFA, Piau Laurent",R.93.19 - Other sports activities
+37125,Statkraft+I/S Elsam+18,N,,"Aust-Agder , Buskerud, Energiselkapet Asker, Kristiansand, Lyse Kraft, Oppland Energiverk, Skiensfjordens, Sogn og Fjordane, Statkraft SF, Statnett SF, Sunnhordland, Tafjord, Telekraft, Troms , Tronder Energi, Trondheim, Tussa Energi, Vest-Agder     , Vestfold","D.35.1 - Electric power generation, transmission and distribution"
+37133,Snelpd / France,N,23-10-01,"France, Poste Française, snelpd","H.53.1 - Postal activities under universal service obligation, H.53.20 - Other postal and courier activities"
+37145,MTU+Volvo,N,,"MTU Fredrichshafen, Volvo Aero",C.30.3 - Manufacture of air and spacecraft and related machinery
+37152,PO/Plasterboard,Y,27-12-02,"BPB , Gyproc Benelux, Knauf W.G. KG, Lafarge SA",C.23.62 - Manufacture of plaster products for construction purposes
+37214,DFB,N,19-01-05,Deutscher Fussballb.,J.60.2 - Television programming and broadcasting activities
+37219,Banghalter & de Homem Christo / SACEM,N,12-08-02,"Bangalter Thomas, SACEM, de Homem Christo Man","R.90.0 - Creative, arts and entertainment activities"
+37228,Ingman + VDC / Philips + Sony,N,,"Ingman Ltd, Philips Electronics, Sony, Video Duplicating Co",C - Manufacturing
+37275,SEP et autres / Automobiles Peugeot SA,N,05-10-05,"Peugeot, Peugeot Nederland",C.33.20 - Installation of industrial machinery and equipment
+37320,Tariff rebalancing - Spain  (98/2240),N,,"España, Telefónica de España",J.61.10 - Wired telecommunications activities
+37328,Saraceno/COBAT,N,,"COBAT, Saraceno","C.27.20 - Manufacture of batteries and accumulators, E.38 - Waste collection, treatment and disposal activities; materials recovery"
+37341,Huntstown+Omega Aviation/Ireland,N,20-03-02,"Huntstown, Ireland, Omega Aviation",H.52.23 - Service activities incidental to air transportation
+37359,Degussa+Norddeutsche Affinerie,N,,"Degussa AG, Norddeutsche Affine",
+37370,Sorbates,Y,01-10-03,"Cheminova, Chisso, Daicel, Hoechst AG, NSCI, Nutrinova, Ueno",C.20 - Manufacture of chemicals and chemical products
+37386,Sun-Air/SAS+Maersk,N,18-07-01,"Maersk Air, Scandinavian Airlines System Denmark-Norway-Sweden, Sun-Air",H.51 - Air transport
+37391,Commissions bancaires+12/PO,Y,,"ABI, Association Français, BDB, BVB, Banca Privada, Bancos Portuguesa, Banques Luxembourg, Fédération Bancaire, Irish Bankers, Suomen Pankkiyhdisty, Vereniging Banken NL, Österreich. Banken",K.64.1 - Monetary intermediation
+37396,Revised Taca,N,14-11-02,"Atlantic Container L, Hapag-Lloyd, Mediterranean Ship., Moller-Maersk LIne, NYK, Orient Overseas C., P&O; Nedlloyd Contain, Polish Ocean Lines, Sea-Land Service",H.50.20 - Sea and coastal freight water transport
+37398,UEFA,N,23-07-03,UEFA,"J.60.2 - Television programming and broadcasting activities, R.93.19 - Other sports activities"
+37428,Ladbroke+PMU+2,N,,"Derby, Ladbroke Group PLC, Ladbroke Racing, PMU, Tiercé Ladbroke",J.60.2 - Television programming and broadcasting activities
+37444,SAS + Maersk Air,Y,18-07-01,"Maersk Air, Scandinavian Airlines System Denmark-Norway-Sweden",H.51 - Air transport
+37450,ECOTOP+4,N,,"British Steel plc, Ecotop, HSH, Rasselstein Hoesch, Sollac",C.25.92 - Manufacture of light metal packaging
+37451,Price squeeze local loop Germany,N,21-05-03,"DTAG, Deutschland, Mannesmann Arcor",J.61.10 - Wired telecommunications activities
+37462,GTO + 8,N,31-07-01,"ABN-Amro, BA Interactive, Barclays, Bayerische Hypo-, Chase, Citibank, Deutsche Bank, GTO , Pyramid","J.61.10 - Wired telecommunications activities, K.66.19 - Other activities auxiliary to financial services, except insurance and pension funding"
+37506,DVD patent licensing group,N,,"Hitachi Ltd, JVC, MEI, Mitsubishi Electric, Time Warner, Toshiba Corporation",C.26.4 - Manufacture of consumer electronics
